@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :577: for Floccus bookmark sync browser extension -->
+<!--- highestId :578: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1609,7 +1609,7 @@
   <title>Awesome Robotics Projects for Kids: 20 Original STEAM Robots and Circuits to Design and Build (Awesome STEAM Activities for Kids): Katovich, Bob: 9781641526760: Amazon.com: Books</title>
 </bookmark>
 <folder id="516">
-  <title>AI LLM </title>
+  <title>AI LLM</title>
   <bookmark href="https://martinfowler.com/tags/generative%20AI.html" id="535">
     <title>generative AI</title>
   </bookmark>
@@ -1705,6 +1705,9 @@
   </bookmark>
   <bookmark href="https://ezyang.github.io/ai-blindspots/" id="577">
     <title>AI Blindspots | AI Blindspots</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=43445931" id="578">
+    <title>PyTorch Internals: Ezyang&apos;s Blog | Hacker News</title>
   </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
