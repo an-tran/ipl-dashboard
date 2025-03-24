@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :577: for Floccus bookmark sync browser extension -->
+
+<bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
+  <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
+</bookmark>
+<bookmark href="http://m.vietnamnet.vn/vn/giao-duc/goc-phu-huynh/10-chuyen-nguoc-doi-trong-cach-day-tre-o-viet-nam-354427.html#.WJVqhmgIE7I.facebook" id="2">
+  <title>10 chuyện ngược đời trong cách dạy trẻ ở Việt Nam</title>
+</bookmark>
+<bookmark href="http://phatdatbinhthoi.com/" id="3">
+  <title>Vi Tính Phát Đạt</title>
+</bookmark>
+<bookmark href="http://dulich.tuoitre.vn/tin/20170330/du-lich-qua-chum-anh-thien-nhien-dep-kho-cuong/1289273.html" id="4">
+  <title>Du lịch qua chùm ảnh thiên nhiên đẹp khó cưỡng - Tuổi Trẻ Online</title>
+</bookmark>
+<bookmark href="https://www.mycolombianwife.com/the-best-colombian-butts/" id="5">
+  <title>The Best Colombian Butts - www.mycolombianwife.com</title>
+</bookmark>
+<bookmark href="http://nhipsongso.tuoitre.vn/nhip-song-so/ttc-day-manh-hop-tac-phat-trien-tai-tinh-ben-tre-1355593.htm" id="6">
+  <title>TTC đẩy mạnh hợp tác phát triển tại tỉnh Bến Tre</title>
+</bookmark>
+<bookmark href="https://www.mayrhofer.eu.org/create-x509-certs-in-java" id="7">
+  <title>Creating X.509 certificates programmatically in Java | Rene Mayrhofer&apos;s virtual home</title>
+</bookmark>
+<bookmark href="https://dzone.com/articles/how-to-take-thread-dumps-7-options" id="8">
+  <title>8 Options for Capturing Thread Dumps - DZone Java</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSCC-710" id="9">
+  <title>[TEAMSCC-710] Create kafka topic prefix in Instaclustr - Jira</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=C2zuKKmcug0&amp;t=74s" id="10">
+  <title>Bí quyết bảo vệ mắt để dùng máy tính cả ngày không mỏi - YouTube eye health</title>
+</bookmark>
+<bookmark href="https://twinkletray.com/" id="11">
+  <title>Twinkle Tray: Brightness Slider for Windows monitor</title>
+</bookmark>
+<bookmark href="https://github.com/adamdunkels/uip" id="12">
+  <title>adamdunkels/uip: The historical uIP sources diy TCP/IP</title>
+</bookmark>
+<bookmark href="https://tuoitre.vn/ve-ho-tri-an-nghi-le-trai-nghiem-tren-rung-duoi-ho-mat-lanh-20240415175301132.htm" id="13">
+  <title>Về hồ Trị An nghỉ lễ, trải nghiệm trên rừng, dưới hồ mát lành - Tuổi Trẻ Online dulich</title>
+</bookmark>
+<bookmark href="https://doc.lagout.org/science/0_Computer%20Science/8_Electronics%20%26%20Robotics/" id="14">
+  <title>X-Files robotics electronics book</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/79854076066/How+to+Setup+Customer+Bridge+End-to-End+Testing+With+Docker" id="15">
+  <title>How to Setup Customer Bridge End-to-End Testing With Docker - Sonar - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://watech.wa.gov/tips-safely-using-public-wi-fi" id="16">
+  <title>Tips for safely using public Wi-Fi | WaTech</title>
+</bookmark>
+<bookmark href="https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?ranMID=39197&amp;ranEAID=byQ1B*3xS1w&amp;ranSiteID=byQ1B.3xS1w-Wp9.6_YPZljZG39jYFu2kg&amp;LSNPUBID=byQ1B*3xS1w&amp;utm_source=aff-campaign&amp;utm_medium=udemyads&amp;couponCode=ST7MT41824" id="17">
+  <title>[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02 | Udemy</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=hexfXc7-SsU&amp;list=TLPQMTgwNDIwMjTmqWQm30AszQ&amp;index=3" id="18">
+  <title>10 Udemy Courses Every Developer SHOULD Own (NOT just coding) - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Sj3MnsHznGI" id="19">
+  <title>Knowing where to start. A conversation with Casey Muratori - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=i8SWe0YrVWI" id="20">
+  <title>Fireside Chat with @kepano, CEO of Obsidian - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=SXjIYRih13I" id="21">
+  <title>Learn to code with an unfair advantage. - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=dihfA7Ol6Mw" id="22">
+  <title>If you&apos;re not developing with this, you&apos;re wasting your time - YouTube docker robot dev env</title>
+</bookmark>
+<bookmark href="https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/" id="23">
+  <title>Why CockroachDB doesn&apos;t use EvalPlanQual</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=-B5VDp50daI&amp;list=TLPQMDcwNDIwMjQFET-K-Ny27w&amp;index=10" id="24">
+  <title>I Love TMUX and you should too - YouTube</title>
+</bookmark>
+<bookmark href="https://pthorpe92.github.io/ocaml/ocaml-first-thoughts/" id="25">
+  <title>OCaml: A Rust developer’s first impressions - Inside thoughts</title>
+</bookmark>
+<bookmark href="http://stephane.ducasse.free.fr/FreeBooks.html" id="26">
+  <title>Stéphane Ducasse :: Free Online Books smalltalk</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Vx1u7shje8U" id="27">
+  <title>Mua Cổ Phiếu, Chứng Chỉ Quỹ Thế Nào Để Được Lãi Kép - Cho NĐT F0. - YouTube</title>
+</bookmark>
+<bookmark href="https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers" id="28">
+  <title>Who are your favorite tech youtubers | Lobsters</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=do2bgArcaj8" id="29">
+  <title>Who&apos;s At the Door? | Don&apos;t Open The Door To Strangers - YouTube kid edu youtube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=MMPuGFMsoyk" id="30">
+  <title>The Best Courses to Help you Become a Full-Stack Developer - YouTube tiff in tech web dev full stack</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=DsAclZbP_Us&amp;t=26s" id="31">
+  <title>Abstraction Bad? | Clean Code : Horrible Performance : (Clip) Interview - YouTube casey</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=21JlBOxgGwY&amp;list=TLPQMTYwNDIwMjSVdHX5Cj_n-A&amp;index=6" id="32">
+  <title>Jonathan Blow on unit testing and TDD - YouTube jblow jonathan blow</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=ATe0lrdrtWE" id="33">
+  <title>KHI CỔ PHIẾU TĂNG TRẦN HÀNG LOẠT ?? | ĐẦU TƯ CHỨNG KHOÁN - YouTube ckvn ck quangdung</title>
+</bookmark>
+<bookmark href="https://prime.changngocgia.com/c/kinhtai/l-c-cp-04-2024" id="34">
+  <title>27 Cổ phiếu tháng 04/2024 | Chàng-Ngốc-Già cng ckvn</title>
+</bookmark>
+<bookmark href="https://codebeautify.org/htmlviewer" id="35">
+  <title>Best HTML Viewer, HTML Beautifier, HTML Formatter and to Test / Preview HTML Output html beautiyf</title>
+</bookmark>
+<bookmark href="https://github.com/amlweems/xzbot" id="36">
+  <title>amlweems/xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094) xz hack</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/@305miamivisuals" id="37">
+  <title>305 MIAMI VISUALS - YouTube</title>
+</bookmark>
+<bookmark href="https://vnexpress.net/nha-vat-ly-chi-cach-dung-quat-dien-mat-nhat-4744980.html" id="38">
+  <title>Nhà vật lý chỉ cách dùng quạt điện mát nhất - VnExpress Đời sống quat fan bernoulli</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/shorts/kRcmG2drAdE" id="39">
+  <title>Server tại nhà của tôi! - YouTube home server nanopi r6s</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=6XAu4EPQRmY" id="40">
+  <title>Jonathan Blow on solving hard problems - YouTube jblow</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=6gakofGPZ6Q" id="41">
+  <title>Jonathan Blow on Problem Solving - YouTube jblow</title>
+</bookmark>
+<bookmark href="https://www.d3indepth.com/" id="42">
+  <title>d3.js from the ground up</title>
+</bookmark>
+<bookmark href="https://blas.com/the-psychology-of-money/" id="43">
+  <title>The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness – The Rabbit Hole</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=B2G9fJh3du4" id="44">
+  <title>Top 5 Bài Hát Hay Nhất Của Hải Lai A Mộc | Chill Wildflower - YouTube chinese music</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=jZQ0gd9XAEQ" id="45">
+  <title>[Vietsub + Pinyin] Chúng Ta Không Giống Nhau | 我们不一样- Đại Tráng | 大壮 .MV - YouTube chinese music</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Sq6vUNvhhos" id="46">
+  <title>Bất quá nhân gian - 不过人间 | Hải Lai A Mộc - 海来阿木 - YouTube chinese music</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=jM8dCGIm6yc" id="47">
+  <title>The HU - Wolf Totem (Official Music Video) - YouTube chinese music</title>
+</bookmark>
+<bookmark href="https://gitlab.com/mnf-group/sonar/sonar/-/merge_requests/1510/diffs" id="48">
+  <title>[SP-4309] Migrate to new runners (!1510) · Merge requests · mnf-group / sonar / Sonar · GitLab</title>
+</bookmark>
+<bookmark href="https://awsclibuilder.com/home/services/dms" id="49">
+  <title>AWS CLI Builder By Prasad Domala</title>
+</bookmark>
+<bookmark href="https://app.codecrafters.io/catalog" id="50">
+  <title>Catalog | CodeCrafters</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=yCgieVu13VQ&amp;list=TLPQMjcwNTIwMjREOYKd0CjEww" id="51">
+  <title>My Neovim &amp; Tmux Terminal Dev Workflow As A Principal Engineer - YouTube good cli</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=GH3kpsbbERo" id="52">
+  <title>Tmux From Scratch To BEAST MODE - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=fs3djPAzjs0" id="53">
+  <title>The Greatest Linux Hack Story of All Times - YouTube xz hack</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=VdB9bPeEJjk" id="54">
+  <title>HomLab biết tool này sớm anh em x3 được công việc / Kiên Lê TV - YouTube it tool</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=sOazJyw86gc" id="55">
+  <title>Học lộn vòng(santo) khi bơi | Flip turn - YouTube swim</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=bjpzh1mWMM0" id="56">
+  <title>Học uốn sóng khi bơi - YouTube swim</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=MuUM1MdlHTY" id="57">
+  <title>Học kỹ thuật quay vòng khi bơi - YouTube swim hay</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=giAvSozVrso" id="58">
+  <title>How to practice &quot; Flip turn &quot; : Advanced - YouTube ayu</title>
+</bookmark>
+<bookmark href="https://it-tools.tech/" id="59">
+  <title>IT Tools - Handy online tools for developers</title>
+</bookmark>
+<bookmark href="https://yousum.app/" id="60">
+  <title>YouSum - Youtube AI Summaries summarize summary</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=aN-5hN5YiKw" id="61">
+  <title>5 Great Catch Drills - YouTube swim</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=vbFh9f_1_bI" id="62">
+  <title>5 Great Butterfly Drills for Hip Drive - YouTube swim</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=-gdFQvCKFgE" id="63">
+  <title>FREESTYLE ROTATION | 4 Drills You MUST Do to Improve Rotation and Timing!! - YouTube swim drill</title>
+</bookmark>
+<bookmark href="https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-microsoft-teams-2e8e2a70-e8d8-4a19-949b-4c36dd5292d2" id="64">
+  <title>Keyboard shortcuts for Microsoft Teams - Microsoft Support</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=sybbS4DzgmM" id="65">
+  <title>Your swimming technique SUCKS (and how to fix it) - YouTube swim drill</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/CPAAS/pages/80530079897/Connect+Technology+Firefighting" id="66">
+  <title>Connect Technology Firefighting - Connect - Symbio Global Confluence FF marco</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SYSENG/pages/78015135809/Using+Terraform+at+MNF" id="67">
+  <title>Using Terraform at MNF - Symbio Core - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/78341636218/Upgrade+terraform+version" id="68">
+  <title>Upgrade terraform version - Sonar - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=IzqcozEXcg8" id="69">
+  <title>When you turn your hands, where should you make the rhythm? - YouTube swim lay nhip khi tay vao nuoc</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=XqM4gp9eepY" id="70">
+  <title>Bơi sải lướt hơn | Cách tập luyện tay sải đúng phương pháp. - YouTube swim drill</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=uiI6Z_0Q2Io&amp;list=TLPQMTYwNjIwMjTfg_irMFppnQ&amp;index=4" id="71">
+  <title>How To Swim Freestyle With Perfect Technique - YouTube swim criterias</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=9Wm0kyjtmaE" id="72">
+  <title>Swim with LESS Effort - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Q1hjXgYOHVU" id="73">
+  <title>Secret Speed: Master the First Steps in Sports - YouTube batsuju</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=r0rSSSGagOs" id="74">
+  <title>[&quot;Batsuju&quot; Step] Practice method actually taught - YouTube batsuju</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=-Um_ujejDRw&amp;t=3s" id="75">
+  <title>Justin Sung GRINDE Maps vs Buzan Mindmaps - YouTube</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSC-3479" id="76">
+  <title>[TEAMSC-3479] [Support] Sonar ENT accounts not billing post migration - Jira jason suling gordon</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=eLqQo38wC2Q" id="77">
+  <title>How HACKERS Take Notes!! (Obsidian &amp; More) - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/@innervoicexmdieuchieu-xuan8936/playlists" id="78">
+  <title>INNER VOICE XM (DIỆU CHIẾU-XUÂN MAI) - YouTube gioi duc truyen phat</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=2l7lNbxV8Pk" id="79">
+  <title>The One Monitor for EVERYTHING - PS5, Mac and PC - YouTube</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/79768619587/SPIKE+Deployer+Gitlab+CI+CD+API+to+trigger+start+of+pipeline" id="80">
+  <title>[ SPIKE ][ Deployer ] Gitlab CI/CD API to trigger start of pipeline - Sonar - Symbio Global Confluence</title>
+</bookmark>
+<folder id="81">
+  <title>music</title>
+  <bookmark href="https://www.youtube.com/watch?v=tHvIk0o1tms" id="85">
+    <title>Malou Lovis Kreyelkamp - Rainbow Connection | The Voice 2023 (Germany) | Blind Auditions - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=XwpOtMvuGlc" id="86">
+    <title>4-CHAIR TURN Blind Auditions of The Voice Winners 🏆 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=oR4IlkM6b-U" id="87">
+    <title>Girl Name Tom - &apos;Helplessly Hoping&apos; - The Voice 2021 - Blind Audition - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=3M1KhUpO4h4" id="88">
+    <title>Nadezhda Aleksandrova - Wicked Game | Blind Auditions | The Voice of Bulgaria 2019 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80613376130/MVP02+4.80.0+202406" id="89">
+    <title>MVP02 upgrade MVP02_4.80.0_202406 - Sonar - Symbio Global Confluence</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=sUWAZo-03u0" id="82">
+  <title>Faster Freestyle Swimming: Part 5. Exiting the Stroke efficiently to reduce drag | Vasa Swim Trainer - YouTube swim recovery phase</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=In97PelwJt8" id="83">
+  <title>How to improve your distance per stroke (DPS) and what it actually means? #swimming - YouTube dsp swim</title>
+</bookmark>
+<folder id="84">
+  <title>youtube</title>
+  <bookmark href="https://www.youtube.com/watch?v=ZaLSwhciSfs" id="90">
+    <title>50 hours of Mid-Level System Design in One Hour - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=XB2lF_Z9cbs" id="91">
+    <title>Database Tuning at Zerodha - India&apos;s Largest Stock Broker - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=_CApmjQcxx0" id="92">
+    <title>how to build discipline | &quot;just one step&quot; short film - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=_QQ7k5sn2-o" id="93">
+    <title>Brian Kernighan Reflects on &quot;The Practice of Programming&quot; - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=2J-HIh3kXCQ" id="94">
+    <title>Jonathan Blow on Refactoring - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=HGwLmX41cn4" id="95">
+    <title>CALCULUS Top 10 Must Knows (ultimate study guide) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=t_2aW1wYoMk" id="96">
+    <title>world’s shortest productivity course - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Yrbzv34lvWk" id="97">
+    <title>world’s shortest data visualization course - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=nr8biZfSZ3Y" id="98">
+    <title>I coded one project EVERY WEEK for a YEAR - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=L9hU4xrhEDs" id="99">
+    <title>What does the second derivative actually do in math and physics? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=0HaBNdmUWXY" id="110">
+    <title>The Subtle Reason Taylor Series Work | Smooth vs. Analytic Functions - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=2dwQUUDt5Is" id="111">
+    <title>What Lies Between a Function and Its Derivative? | Fractional Calculus - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=1f6N2UrCK6o" id="112">
+    <title>Unlocking Your Intuition: How to Solve Hard Problems Easily - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=jozNEpY8iik" id="113">
+    <title>How to Plan Your Week Effectively - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=NSoKRYNlOls" id="114">
+    <title>BIGGEST RELEASE - Chat with Your ENTIRE Obsidian Vault OFFLINE! Claude 3 Integration! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=2Q4aRIES4WE" id="115">
+    <title>The Hacker Who Changed The Internet - Documentary - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=5I64NM5ZgUg" id="116">
+    <title>From ZERO Coding to Machine Learning Engineer at Meta - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=3C5iuBJJsJE" id="117">
+    <title>Becoming a Netflix-Level Engineer with ‪@trash_dev‬ | 012 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=qf0GqRz-c74" id="118">
+    <title>SQLite&apos;s WAL mode is fast fast - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=RqTEHSBrYFw" id="119">
+    <title>SQLite&apos;s WAL mode is fast fast - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=x4k1XEjNzYQ" id="144">
+    <title>Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=9goOuIy8Ok4" id="145">
+    <title>getting a personality is easy, actually - YouTube  g00d</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=k7HaeJs-N-o" id="146">
+    <title>Full Series [Part 1-18] | Generative AI for Beginners - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=BLXZsBd1cDs" id="147">
+    <title>How to learn Machine Learning (ML/AI Roadmap 2024) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=1d-6Hv1c39c" id="148">
+    <title>reverse engineering makes you a better programmer (let’s try it out) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=xJ0IBzCjEPk" id="149">
+    <title>How to Learn Skills Faster | Huberman Lab Podcast - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=QN574SUEP2I" id="150">
+    <title>Prepare for the AWS SysOps Administrator Associate (SOA-C02) – Full Course to PASS the Exam - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=v_UPTLwwS5w" id="151">
+    <title>[Học thuật toán cùng TopAlgo] - Admin solo đề ACM ICPC Việt Nam vòng national năm 2014 (7 / 10 bài) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ias6yRWbhro" id="152">
+    <title>Magic Words - YouTube swim</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Zcn9NJtCNas" id="153">
+    <title>Thực hành dự án game Minecraft | Không yêu cầu kinh nghiệm | Chi tiết các khái niệm quan trọng - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=tr78RDhSeIY" id="188">
+    <title>Thử Thách Giải Đề Thi Toán Vào 10 Trong Thời Gian Thật | Cựu Thủ Khoa Sau 10 Năm - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=47Qjaig3y30" id="189">
+    <title>Securing Linux Systems - Secure Technical Implementation Guidelines (STIGs) of live system. - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=XZJXrGRt5MQ" id="190">
+    <title>How to Start Bug Bounty 2024 | Getting Started into Bug Bounty in 2024 | CyberSafeGuard - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=gh2RXE9BIN8" id="191">
+    <title>everything is open source if you can reverse engineer (try it RIGHT NOW!) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=zrYo6wbtVes" id="192">
+    <title>Quy trình A-Z xây kênh AI bán content View Ngoại 30 ngày bật kiếm tiền YouTube - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=dqA7iEHGcBw" id="193">
+    <title>Hướng Dẫn Làm kênh YOUTUBE VIEW NGOẠI cách làm Youtube View Nước Ngoài - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=nd5W82KN9B8" id="194">
+    <title>OSINT: How to Find Information about ANYONE! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=gvQGKRlgop4" id="195">
+    <title>Multithreading for Beginners - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=a_4MjV_-7Sw" id="196">
+    <title>Mastering Wireshark: The Complete Tutorial! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=p3vaaD9pn9I" id="197">
+    <title>Networking For Hackers! (Common Network Protocols) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=_IOZ8_cPgu8" id="241">
+    <title>Networking basics (2024) | What is a switch, router, gateway, subnet, gateway, firewall &amp; DMZ - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=rIrNIzy6U_g" id="242">
+    <title>100+ Docker Concepts you Need to Know - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=sJBO7rMR8ks" id="243">
+    <title>ML Was Hard Until I Learned These 5 Secrets! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=6vj96QetfTg" id="244">
+    <title>How the Best Hackers Learn Their Craft - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=NfvtQ2p5QG4" id="245">
+    <title>HTML CSS JS projects (Beginner): 30 projects using HTML CSS and JavaScript - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=wvTR9Xb8NGc" id="246">
+    <title>For those who binge productivity videos, but stay the same. - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=5eO5RthDtkY" id="247">
+    <title>Every Manipulation Tactic in 16 Minutes - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=FpKroDpOcqw" id="100">
+  <title>How To Swim 1:10/100m Freestyle - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=JmNiSDvZvYQ" id="101">
+  <title>4 Tips to Improve Your Freestyle Swim Stroke - YouTube swim drill</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSCI-17293" id="102">
+  <title>[TEAMSCI-17293] Remove the PagerDuty alert for decommissioned Sonar UI on 125.213.178.196 - Jira john aquino core system</title>
+</bookmark>
+<folder id="103">
+  <title>may giat</title>
+  <folder id="120">
+    <title>New folder</title>
+    <bookmark href="https://mnfgroup.atlassian.net/jira/software/c/projects/TEAMSP/boards/69?selectedIssue=TEAMSP-4334" id="154">
+      <title>Provisioning - 2024 S14 - Sonar Projects Scrum - Agile Board - Jira</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSP-4465" id="155">
+      <title>[TEAMSP-4465] [Gitlab] Migrate pipelines to new runners - part 4 - Jira</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/mnf-group/sonar/api-user-manager-fe/-/jobs/7354501519" id="156">
+      <title>deploy_uat (#7354501519) · Jobs · mnf-group / sonar / Api User Manager FE · GitLab</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/mnf-group/sonar/api-user-manager-fe/-/jobs/7271017176" id="157">
+      <title>deploy_dev (#7271017176) · Jobs · mnf-group / sonar / Api User Manager FE · GitLab</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=xneSqeac9Pk" id="158">
+      <title>7 Software Design Concepts from John Ousterhout - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=uXuMvUPlvd0" id="159">
+      <title>How to take notes when you suck at it - YouTube</title>
+    </bookmark>
+    <bookmark href="https://tel4vn.edu.vn/blog/gioi-thieu-tong-quan-ve-terraform/" id="160">
+      <title>Giới thiệu tổng quan về Terraform - TEL4VN</title>
+    </bookmark>
+    <bookmark href="https://docs.gitlab.com/ee/user/packages/dependency_proxy/" id="161">
+      <title>docs.gitlab.com</title>
+    </bookmark>
+    <bookmark href="https://docs.gitlab.com/ee/ci/services/#how-services-are-linked-to-the-job" id="162">
+      <title>docs.gitlab.com</title>
+    </bookmark>
+    <bookmark href="https://docs.gitlab.com/ee/ci/docker/using_docker_build.html" id="163">
+      <title>docs.gitlab.com</title>
+    </bookmark>
+    <bookmark href="https://developer.hashicorp.com/terraform/language/values/variables" id="198">
+      <title>Input Variables - Configuration Language | Terraform | HashiCorp Developer</title>
+    </bookmark>
+    <bookmark href="https://hnx.vn/vi-vn/chi-tiet-tin-60001083-0.html#:~:text=Do%20%C4%91%C3%B3%2C%20OI%20l%C3%A0%20t%E1%BB%95ng,t%C3%A2m%20%C4%91%E1%BA%BFn%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20%C4%91%C3%B3." id="199">
+      <title>Một số khái niệm đặc thù của TTCKPS</title>
+    </bookmark>
+    <bookmark href="https://github.com/ajoshi-learn/hibernate-learn" id="200">
+      <title>ajoshi-learn/hibernate-learn</title>
+    </bookmark>
+    <bookmark href="https://www.marcobehler.com/guides/java-microservices-a-practical-guide#microservice-basics-graphic" id="201">
+      <title>Java Microservices: A Practical Guide</title>
+    </bookmark>
+    <bookmark href="https://sookocheff.com/post/java/java-for-the-experienced-beginner/" id="202">
+      <title>Java For The Experienced Beginner | Kevin Sookocheff</title>
+    </bookmark>
+    <bookmark href="https://linuxupskillchallenge.org/09/?h=iptables#troubleshoot-and-make-a-sad-server-happy" id="203">
+      <title>Day 9 - Diving into networking - Linux Upskill Challenge</title>
+    </bookmark>
+    <folder id="204">
+      <title>read</title>
+      <bookmark href="https://www.reddit.com/r/vim/comments/q3fs5j/how_do_you_remember_which_mark_is_which/" id="208">
+        <title>How do you remember which mark is which? : r/vim</title>
+      </bookmark>
+      <bookmark href="https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/projects.php" id="209">
+        <title>Projects</title>
+      </bookmark>
+      <bookmark href="https://web.stanford.edu/~ouster/cs190-winter23/application/" id="210">
+        <title>web.stanford.edu/~ouster/cs190-winter23/application/</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40505213" id="211">
+        <title>Shadama: A particle simulation programming environment for everyone | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://github.com/Akshat-Jain/database-internals-notes" id="212">
+        <title>Akshat-Jain/database-internals-notes: My chapter-wise notes for Database Internals by Alex Petrov.</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40528192" id="213">
+        <title>Ask HN: I have many PDFs – what is the best local way to leverage AI for search? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://blog.robertelder.org/intro-to-awk-command/?utm_source=pocket_saves" id="214">
+        <title>How To Become A 10x Engineer Using The Awk Command</title>
+      </bookmark>
+      <bookmark href="https://book.babashka.org/#tasks" id="215">
+        <title>Babashka book</title>
+      </bookmark>
+      <bookmark href="https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html?utm_source=pocket-ff-recs" id="216">
+        <title>Self-Documented Makefile</title>
+      </bookmark>
+      <bookmark href="https://makefiletutorial.com/" id="217">
+        <title>Makefile Tutorial By Example</title>
+      </bookmark>
+      <bookmark href="https://edw.is/using-imgui-with-sfml-pt1/" id="279">
+        <title>Using Dear ImGui with SFML</title>
+      </bookmark>
+      <bookmark href="https://prefetch.net/blog/2020/07/22/how-the-docker-pull-command-works-under-the-covers-with-http-headers-to-illustrate-the-process/" id="280">
+        <title>How the docker pull command works under the covers (with HTTP headers to illustrate the process) -- Prefetch Technologies</title>
+      </bookmark>
+      <bookmark href="https://andreyor.st/posts/2020-06-04-simple-ray-casting-with-clojurescript/" id="281">
+        <title>andreyor.st</title>
+      </bookmark>
+      <bookmark href="https://www.braveclojure.com/functional-programming/#Peg_Thing" id="282">
+        <title>Functional Programming | Clojure for the Brave and True</title>
+      </bookmark>
+      <bookmark href="https://computerwebsite.net/writing/gjk" id="283">
+        <title>the Gilbert–Johnson–Keerthi algorithm explained as simply as possible</title>
+      </bookmark>
+      <bookmark href="https://guzey.com/productivity/" id="284">
+        <title>guzey.com</title>
+      </bookmark>
+    </folder>
+    <folder id="205">
+      <title>system</title>
+      <bookmark href="https://archive.is/20230516163830/https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b" id="218">
+        <title>16 System Design Concepts I Wish I Knew Before the Interview. | by Arslan Ahmad | Apr, 2023 | Level Up Coding</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=applying-textbook-data-structures-for-real-life-wins&amp;oq=applying-textbook-data-structures-for-real-life-wins&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhB0gEHMzYxajBqNKgCALACAQ&amp;sourceid=chrome&amp;ie=UTF-8#ip=1" id="219">
+        <title>applying-textbook-data-structures-for-real-life-wins - Tìm trên Google</title>
+      </bookmark>
+      <bookmark href="https://archive.is/I7q83" id="220">
+        <title>System Design Interview Survival Guide (2024): Preparation Strategies and Practical Tips | by Arslan Ahmad | Level Up Coding</title>
+      </bookmark>
+      <bookmark href="https://archive.is/AjkHE" id="221">
+        <title>Grokking System Design Fundamentals</title>
+      </bookmark>
+      <bookmark href="https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-2/580" id="222">
+        <title>[educative.io] [Design Gurus] Grokking the System Design Interview - Part 2 - Поделиться Курсом / Книгой / и тд. - Coursehunters community (Beta)</title>
+      </bookmark>
+      <bookmark href="https://interviewing.io/guides/system-design-interview" id="223">
+        <title>System Design Interview Guide for Senior Engineers</title>
+      </bookmark>
+      <bookmark href="https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/" id="224">
+        <title>You probably wrote half a monad by accident – Andy G&apos;s Blog</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/" id="206">
+      <title>You&apos;ll regret using natural keys</title>
+    </bookmark>
+    <bookmark href="https://dubroy.com/blog/getting-things-done-in-small-increments/" id="207">
+      <title>Getting things done (in small increments)</title>
+    </bookmark>
+    <bookmark href="https://spacelift.io/blog/terraform-apply" id="248">
+      <title>Terraform Apply - When to Run &amp; Quick Usage Examples</title>
+    </bookmark>
+    <bookmark href="https://kodekloud.com/blog/keep-docker-container-running/" id="249">
+      <title>How to Keep Docker Container Running</title>
+    </bookmark>
+    <bookmark href="https://danlebrero.com/2023/03/15/why-to-take-booknotes/#content" id="250">
+      <title>Notes on book notes</title>
+    </bookmark>
+    <bookmark href="https://github.com/Jeevan-kumar-Raj/Grokking-System-Design?tab=readme-ov-file" id="251">
+      <title>Jeevan-kumar-Raj/Grokking-System-Design: Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=R-iIQ0kQni0" id="252">
+      <title>THE LAWS OF HUMAN NATURE (understanding this will change your life) - Robert Greene//book summary - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=GFgJkfScVNU" id="253">
+      <title>Learn Docker in 1 Hour | Full Docker Course for Beginners - YouTube</title>
+    </bookmark>
+    <bookmark href="https://shopee.vn/product/324782496/16322425224?utm_campaign=-&amp;utm_content=websosanh-datafeed&amp;utm_medium=affiliates&amp;utm_source=an_17190830000&amp;utm_term=bfbd5y73arjh" id="254">
+      <title>Mâm giặt máy giặt Panasonic - NA-F85G5HRV | Shopee Việt Nam</title>
+    </bookmark>
+    <bookmark href="https://shopee.vn/M%C3%A2m-gi%E1%BA%B7t-m%C3%A1y-gi%E1%BA%B7t-Panasonic-NA-F85G5HRV-(38-cm)-i.888329409.23175675428" id="255">
+      <title>Mâm giặt máy giặt Panasonic - NA-F85G5HRV (38 cm) | Shopee Việt Nam</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?sca_esv=00b049f269a9e1e0&amp;q=Panasonic+-+NA-F85G5HRV&amp;udm=2&amp;fbs=AEQNm0D7NTKsOqMPi-yhU7bWDsijsvgon6X3QQ80S2lyCKgxf6ok7L8xxgK5BJMHuzYU7OVVAySfVfi-7d5GYCx3yf5sNy2IAcbbYyJNoZhqLnKkOrsQEDjj_YnBwjNls-ReiB7_SlPLjGMDEZV68cTa-SEMUQxDOscKZ90QKARK9ox96ilIZhnN2HXZr8TRIdhYNdDbWnK09JZFB2wiztG0dZ8TSi783nPzGrls_CNFYPX9-Lyu7-I&amp;sa=X&amp;ved=2ahUKEwiV1NXKwZ6HAxVilFYBHcLACaUQtKgLegQIBRAB&amp;biw=2505&amp;bih=1358&amp;dpr=1.5#vhid=eIuNTQQCQ-azIM&amp;vssid=mosaic" id="287">
+      <title>Panasonic - NA-F85G5HRV - Tìm trên Google</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ONBRS_lhskk" id="288">
+      <title>Tháo mâm giặt Panasonic siêu cứng || ❤️ Điện lạnh Mai Chi ❤️ - YouTube</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/browse/PRDPLX-3411" id="289">
+      <title>[PRDPLX-3411] COMPLETE - Consolidate all MFFs Cloudfront Distros - Jira</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/PLEX/pages/75705897239/Micro+Front+End+Approach+-+Plexus" id="290">
+      <title>Micro Front End Approach - Plexus - Plexus - Symbio Global Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?q=mui+vit+d%E1%BA%B9p+m%C3%A1y+khoan&amp;oq=mui+vit+d%E1%BA%B9p+m%C3%A1y+khoan&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRifBTIHCAIQIRifBTIHCAMQIRifBTIHCAQQIRifBTIHCAUQIRifBTIHCAYQIRifBTIHCAcQIRifBdIBCTM1MDU3ajBqMagCALACAA&amp;sourceid=chrome&amp;ie=UTF-8#vhid=tqUpqmvhHrXrWM&amp;vssid=l" id="291">
+      <title>mui vit dẹp máy khoan - Tìm trên Google</title>
+    </bookmark>
+    <bookmark href="https://www.ketnoitieudung.vn/bo-45-mui-siet-vit-xoan-total-tacsdl24501_47384.html" id="292">
+      <title>Bộ 45 mũi siết vít xoắn Total TACSDL24501 Chính hãng - Giá rẻ | Bộ Mũi Vít Đa Năng | ketnoitieudung.vn</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/" id="293">
+      <title>YouTube</title>
+    </bookmark>
+    <bookmark href="https://getpocket.com/saves?src=navbar" id="294">
+      <title>Pocket</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?q=frontend+roadmap&amp;oq=frontend+roadmap+&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB7SAQg1MzU0ajBqMagCALACAA&amp;sourceid=chrome&amp;ie=UTF-8" id="339">
+      <title>frontend roadmap - Tìm trên Google</title>
+    </bookmark>
+    <bookmark href="https://github.com/adam-golab/react-developer-roadmap?tab=readme-ov-file" id="340">
+      <title>adam-golab/react-developer-roadmap: Roadmap to becoming a React developer</title>
+    </bookmark>
+    <bookmark href="https://github.com/dexteryy/spellbook-of-modern-webdev?tab=readme-ov-file#modern-css--next-gen-css" id="341">
+      <title>dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development</title>
+    </bookmark>
+    <bookmark href="https://news.ycombinator.com/item?id=40950584" id="342">
+      <title>Use a work journal | Hacker News</title>
+    </bookmark>
+    <bookmark href="https://archive.is/20240713041126/https://fev.al/posts/work-journal/" id="343">
+      <title>Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts</title>
+    </bookmark>
+    <bookmark href="https://hackerweb.app/#/item/40723302" id="344">
+      <title>Ask HN: Why do message queue-based architectures seem less popular now? – HackerWeb</title>
+    </bookmark>
+    <bookmark href="https://martinfowler.com/articles/micro-frontends.html" id="345">
+      <title>Micro Frontends</title>
+    </bookmark>
+    <bookmark href="https://www.altexsoft.com/blog/micro-frontend/" id="346">
+      <title>Micro Frontends, Explained</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=XhLy2aSv0dA" id="370">
+      <title>The Odin Project Review 2024 - Honest Feedback - YouTube</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/mnf-group/sonar/api-user-manager-fe/-/merge_requests/25#note_2004820247" id="378">
+      <title>Migrating code to new MFF standard (!25) · Merge requests · mnf-group / sonar / Api User Manager FE · GitLab</title>
+    </bookmark>
+    <bookmark href="https://github.com/topics/web-development-tools" id="379">
+      <title>web-development-tools · GitHub Topics</title>
+    </bookmark>
+    <bookmark href="https://github.com/binkley/modern-java-practices?tab=readme-ov-file" id="380">
+      <title>binkley/modern-java-practices: Modern Java/JVM Build Practices</title>
+    </bookmark>
+    <bookmark href="https://frontendmasters.com/guides/front-end-handbook/2024/#5.3" id="381">
+      <title>The Front End Developer/Engineer Handbook 2024</title>
+    </bookmark>
+    <bookmark href="https://web.dev/learn" id="382">
+      <title>Learn web development  |  web.dev</title>
+    </bookmark>
+    <bookmark href="https://codedamn.com/learning-path/fullstack#curriculum" id="383">
+      <title>Full Stack Web Developer Learning Path - codedamn</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Kz-SudCTdu4" id="384">
+      <title>Application Monitoring and Error Tracking: How to Implement and Configure Sentry - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=NuFEsUGK93g" id="385">
+      <title>Application Monitoring 101: Getting Started with Sentry (1 of 6) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/news/learn-frontend-web-development/" id="386">
+      <title>The Best Way to Learn Frontend Web Development</title>
+    </bookmark>
+    <bookmark href="https://www.freecodecamp.org/learn/the-odin-project/" id="387">
+      <title>The Odin Project - freeCodeCamp Remix (Beta) | freeCodeCamp.org</title>
+    </bookmark>
+    <bookmark href="https://www.theodinproject.com/lessons/foundations-html-boilerplate" id="388">
+      <title>HTML Boilerplate | The Odin Project</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/learnprogramming/comments/xpyjsv/alternative_to_the_odin_project/" id="389">
+      <title>Alternative to the odin project? : r/learnprogramming</title>
+    </bookmark>
+    <bookmark href="https://fullstackopen.com/en/part0/fundamentals_of_web_apps#css" id="390">
+      <title>Fullstack part0 | Fundamentals of Web apps</title>
+    </bookmark>
+    <bookmark href="https://gitlab.com/mnf-group/rating/ecosystem/shared-pipelines/-/blob/main/build/jobs.yaml?ref_type=heads" id="391">
+      <title>build/jobs.yaml · main · mnf-group / Rating / Ecosystem / Shared Pipelines · GitLab</title>
+    </bookmark>
+    <bookmark href="https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/high-availability-and-fault-tolerance" id="392">
+      <title>High Availability and Fault Tolerance</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.youtube.com/watch?v=m4QBRgRGrFc" id="121">
+    <title>Cách tháo mâm, lồng máy giặt panasonic tại nhà - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.ketnoitieudung.vn/bo-45-mui-siet-vit-xoan-total-tacsdl24501_47384.html" id="122">
+    <title>Bộ 45 mũi siết vít xoắn Total TACSDL24501 Chính hãng - Giá rẻ | Bộ Mũi Vít Đa Năng | ketnoitieudung.vn</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@full-swing/videos" id="123">
+    <title>full-swing - YouTube coach han badminton</title>
+  </bookmark>
+</folder>
+<folder id="104">
+  <title>web dev</title>
+  <bookmark href="https://martinfowler.com/articles/micro-frontends.html" id="124">
+    <title>Micro Frontends</title>
+  </bookmark>
+  <bookmark href="https://www.altexsoft.com/blog/micro-frontend/" id="125">
+    <title>Micro Frontends, Explained</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=XhLy2aSv0dA" id="126">
+    <title>The Odin Project Review 2024 - Honest Feedback - YouTube</title>
+  </bookmark>
+  <bookmark href="https://gitlab.com/mnf-group/sonar/api-user-manager-fe/-/merge_requests/25#note_2004820247" id="127">
+    <title>Migrating code to new MFF standard (!25) · Merge requests · mnf-group / sonar / Api User Manager FE · GitLab</title>
+  </bookmark>
+  <bookmark href="https://github.com/topics/web-development-tools" id="128">
+    <title>web-development-tools · GitHub Topics</title>
+  </bookmark>
+  <bookmark href="https://github.com/binkley/modern-java-practices?tab=readme-ov-file" id="129">
+    <title>binkley/modern-java-practices: Modern Java/JVM Build Practices</title>
+  </bookmark>
+  <bookmark href="https://frontendmasters.com/guides/front-end-handbook/2024/#5.3" id="130">
+    <title>The Front End Developer/Engineer Handbook 2024</title>
+  </bookmark>
+  <bookmark href="https://web.dev/learn" id="131">
+    <title>Learn web development  |  web.dev</title>
+  </bookmark>
+  <bookmark href="https://codedamn.com/learning-path/fullstack#curriculum" id="132">
+    <title>Full Stack Web Developer Learning Path - codedamn</title>
+  </bookmark>
+  <bookmark href="https://www.freecodecamp.org/news/learn-frontend-web-development/" id="133">
+    <title>The Best Way to Learn Frontend Web Development</title>
+  </bookmark>
+  <bookmark href="https://www.freecodecamp.org/learn/the-odin-project/" id="167">
+    <title>The Odin Project - freeCodeCamp Remix (Beta) | freeCodeCamp.org</title>
+  </bookmark>
+  <bookmark href="https://www.theodinproject.com/lessons/foundations-html-boilerplate" id="168">
+    <title>HTML Boilerplate | The Odin Project</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/r/learnprogramming/comments/xpyjsv/alternative_to_the_odin_project/" id="169">
+    <title>Alternative to the odin project? : r/learnprogramming</title>
+  </bookmark>
+  <bookmark href="https://fullstackopen.com/en/part0/fundamentals_of_web_apps#css" id="170">
+    <title>Fullstack part0 | Fundamentals of Web apps</title>
+  </bookmark>
+  <bookmark href="https://gitlab.com/mnf-group/rating/ecosystem/shared-pipelines/-/blob/main/build/jobs.yaml?ref_type=heads" id="171">
+    <title>build/jobs.yaml · main · mnf-group / Rating / Ecosystem / Shared Pipelines · GitLab</title>
+  </bookmark>
+  <bookmark href="https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/high-availability-and-fault-tolerance" id="172">
+    <title>High Availability and Fault Tolerance</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=HXYZxVbWkjc&amp;list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&amp;index=65" id="173">
+    <title>Professional Website From Scratch | HTML &amp; CSS For Beginners - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=8sXRyHI3bLw" id="174">
+    <title>Web Development In 2024 - A Practical Guide - YouTube</title>
+  </bookmark>
+  <bookmark href="https://nodemy.vn/projects-html-css-js/" id="175">
+    <title>30 Ngày thực chiến HTML CSS, Javascript - Nodemy - Học viện đào tạo lập trình thực chiến</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=hu-q2zYwEYs&amp;list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&amp;index=1" id="176">
+    <title>HTML &amp; CSS Crash Course Tutorial #1 - Introduction - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=25R1Jl5P7Mw" id="225">
+    <title>HTML &amp; CSS Crash Course Tutorial #7 - Chrome Dev Tools - YouTube</title>
+  </bookmark>
+  <folder id="226">
+    <title>New folder</title>
+    <bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSP-4465" id="256">
+      <title>[TEAMSP-4465] [Gitlab] Migrate pipelines to new runners - part 4 - Jira</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=xneSqeac9Pk" id="257">
+      <title>7 Software Design Concepts from John Ousterhout - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=uXuMvUPlvd0" id="258">
+      <title>How to take notes when you suck at it - YouTube</title>
+    </bookmark>
+    <bookmark href="https://docs.gitlab.com/ee/user/packages/dependency_proxy/" id="259">
+      <title>docs.gitlab.com</title>
+    </bookmark>
+    <bookmark href="https://docs.gitlab.com/ee/ci/services/#how-services-are-linked-to-the-job" id="260">
+      <title>docs.gitlab.com</title>
+    </bookmark>
+    <bookmark href="https://docs.gitlab.com/ee/ci/docker/using_docker_build.html" id="261">
+      <title>docs.gitlab.com</title>
+    </bookmark>
+    <bookmark href="https://hnx.vn/vi-vn/chi-tiet-tin-60001083-0.html#:~:text=Do%20%C4%91%C3%B3%2C%20OI%20l%C3%A0%20t%E1%BB%95ng,t%C3%A2m%20%C4%91%E1%BA%BFn%20h%E1%BB%A3p%20%C4%91%E1%BB%93ng%20%C4%91%C3%B3." id="262">
+      <title>Một số khái niệm đặc thù của TTCKPS</title>
+    </bookmark>
+    <bookmark href="https://github.com/ajoshi-learn/hibernate-learn" id="263">
+      <title>ajoshi-learn/hibernate-learn</title>
+    </bookmark>
+    <bookmark href="https://www.marcobehler.com/guides/java-microservices-a-practical-guide#microservice-basics-graphic" id="264">
+      <title>Java Microservices: A Practical Guide</title>
+    </bookmark>
+    <bookmark href="https://sookocheff.com/post/java/java-for-the-experienced-beginner/" id="265">
+      <title>Java For The Experienced Beginner | Kevin Sookocheff</title>
+    </bookmark>
+    <folder id="295">
+      <title>read</title>
+      <bookmark href="https://www.reddit.com/r/vim/comments/q3fs5j/how_do_you_remember_which_mark_is_which/" id="320">
+        <title>How do you remember which mark is which? : r/vim</title>
+      </bookmark>
+      <bookmark href="https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/projects.php" id="321">
+        <title>Projects</title>
+      </bookmark>
+      <bookmark href="https://web.stanford.edu/~ouster/cs190-winter23/application/" id="322">
+        <title>web.stanford.edu/~ouster/cs190-winter23/application/</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40505213" id="323">
+        <title>Shadama: A particle simulation programming environment for everyone | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://github.com/Akshat-Jain/database-internals-notes" id="324">
+        <title>Akshat-Jain/database-internals-notes: My chapter-wise notes for Database Internals by Alex Petrov.</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40528192" id="325">
+        <title>Ask HN: I have many PDFs – what is the best local way to leverage AI for search? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://blog.robertelder.org/intro-to-awk-command/?utm_source=pocket_saves" id="326">
+        <title>How To Become A 10x Engineer Using The Awk Command</title>
+      </bookmark>
+      <bookmark href="https://book.babashka.org/#tasks" id="327">
+        <title>Babashka book</title>
+      </bookmark>
+      <bookmark href="https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html?utm_source=pocket-ff-recs" id="328">
+        <title>Self-Documented Makefile</title>
+      </bookmark>
+      <bookmark href="https://makefiletutorial.com/" id="329">
+        <title>Makefile Tutorial By Example</title>
+      </bookmark>
+      <bookmark href="https://edw.is/using-imgui-with-sfml-pt1/" id="371">
+        <title>Using Dear ImGui with SFML</title>
+      </bookmark>
+      <bookmark href="https://prefetch.net/blog/2020/07/22/how-the-docker-pull-command-works-under-the-covers-with-http-headers-to-illustrate-the-process/" id="372">
+        <title>How the docker pull command works under the covers (with HTTP headers to illustrate the process) -- Prefetch Technologies</title>
+      </bookmark>
+      <bookmark href="https://andreyor.st/posts/2020-06-04-simple-ray-casting-with-clojurescript/" id="373">
+        <title>andreyor.st</title>
+      </bookmark>
+      <bookmark href="https://www.braveclojure.com/functional-programming/#Peg_Thing" id="374">
+        <title>Functional Programming | Clojure for the Brave and True</title>
+      </bookmark>
+      <bookmark href="https://computerwebsite.net/writing/gjk" id="375">
+        <title>the Gilbert–Johnson–Keerthi algorithm explained as simply as possible</title>
+      </bookmark>
+      <bookmark href="https://guzey.com/productivity/" id="376">
+        <title>guzey.com</title>
+      </bookmark>
+    </folder>
+    <folder id="296">
+      <title>system</title>
+      <bookmark href="https://archive.is/20230516163830/https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b" id="330">
+        <title>16 System Design Concepts I Wish I Knew Before the Interview. | by Arslan Ahmad | Apr, 2023 | Level Up Coding</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=applying-textbook-data-structures-for-real-life-wins&amp;oq=applying-textbook-data-structures-for-real-life-wins&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhB0gEHMzYxajBqNKgCALACAQ&amp;sourceid=chrome&amp;ie=UTF-8#ip=1" id="331">
+        <title>applying-textbook-data-structures-for-real-life-wins - Tìm trên Google</title>
+      </bookmark>
+      <bookmark href="https://archive.is/I7q83" id="332">
+        <title>System Design Interview Survival Guide (2024): Preparation Strategies and Practical Tips | by Arslan Ahmad | Level Up Coding</title>
+      </bookmark>
+      <bookmark href="https://archive.is/AjkHE" id="333">
+        <title>Grokking System Design Fundamentals</title>
+      </bookmark>
+      <bookmark href="https://coursehunters.online/t/educative-io-design-gurus-grokking-the-system-design-interview-part-2/580" id="334">
+        <title>[educative.io] [Design Gurus] Grokking the System Design Interview - Part 2 - Поделиться Курсом / Книгой / и тд. - Coursehunters community (Beta)</title>
+      </bookmark>
+      <bookmark href="https://interviewing.io/guides/system-design-interview" id="335">
+        <title>System Design Interview Guide for Senior Engineers</title>
+      </bookmark>
+      <bookmark href="https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/" id="336">
+        <title>You probably wrote half a monad by accident – Andy G&apos;s Blog</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/" id="297">
+      <title>You&apos;ll regret using natural keys</title>
+    </bookmark>
+    <bookmark href="https://dubroy.com/blog/getting-things-done-in-small-increments/" id="298">
+      <title>Getting things done (in small increments)</title>
+    </bookmark>
+    <bookmark href="https://danlebrero.com/2023/03/15/why-to-take-booknotes/#content" id="299">
+      <title>Notes on book notes</title>
+    </bookmark>
+    <bookmark href="https://github.com/Jeevan-kumar-Raj/Grokking-System-Design?tab=readme-ov-file" id="300">
+      <title>Jeevan-kumar-Raj/Grokking-System-Design: Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=R-iIQ0kQni0" id="301">
+      <title>THE LAWS OF HUMAN NATURE (understanding this will change your life) - Robert Greene//book summary - YouTube</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/browse/PRDPLX-3411" id="302">
+      <title>[PRDPLX-3411] COMPLETE - Consolidate all MFFs Cloudfront Distros - Jira</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/PLEX/pages/75705897239/Micro+Front+End+Approach+-+Plexus" id="303">
+      <title>Micro Front End Approach - Plexus - Plexus - Symbio Global Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?q=frontend+roadmap&amp;oq=frontend+roadmap+&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB7SAQg1MzU0ajBqMagCALACAA&amp;sourceid=chrome&amp;ie=UTF-8" id="304">
+      <title>frontend roadmap - Tìm trên Google</title>
+    </bookmark>
+    <bookmark href="https://github.com/adam-golab/react-developer-roadmap?tab=readme-ov-file" id="347">
+      <title>adam-golab/react-developer-roadmap: Roadmap to becoming a React developer</title>
+    </bookmark>
+    <bookmark href="https://github.com/dexteryy/spellbook-of-modern-webdev?tab=readme-ov-file#modern-css--next-gen-css" id="348">
+      <title>dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development</title>
+    </bookmark>
+    <bookmark href="https://news.ycombinator.com/item?id=40950584" id="349">
+      <title>Use a work journal | Hacker News</title>
+    </bookmark>
+    <bookmark href="https://archive.is/20240713041126/https://fev.al/posts/work-journal/" id="350">
+      <title>Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts</title>
+    </bookmark>
+    <bookmark href="https://hackerweb.app/#/item/40723302" id="351">
+      <title>Ask HN: Why do message queue-based architectures seem less popular now? – HackerWeb</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Kz-SudCTdu4" id="352">
+      <title>Application Monitoring and Error Tracking: How to Implement and Configure Sentry - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=NuFEsUGK93g" id="353">
+      <title>Application Monitoring 101: Getting Started with Sentry (1 of 6) - YouTube</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.youtube.com/watch?v=jeT8m7490Pg" id="227">
+    <title>The Simplest Tech Stack - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=CcrgG5MjGOk" id="228">
+    <title>How to Roll Your Own Auth - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.extendoffice.com/documents/outlook/1990-outlook-move-after-read.html" id="229">
+    <title>How to move email message to specified folder after reading in Outlook?</title>
+  </bookmark>
+</folder>
+<bookmark href="https://ctf101.org/" id="105">
+  <title>CTF Handbook</title>
+</bookmark>
+<folder id="106">
+  <title>devops</title>
+  <bookmark href="https://www.youtube.com/watch?v=p3vaaD9pn9I" id="134">
+    <title>Networking For Hackers! (Common Network Protocols) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SYSENG/pages/78015135809/Using+Terraform+at+MNF" id="135">
+    <title>Using Terraform at MNF - Symbio Core - Symbio Global Confluence</title>
+  </bookmark>
+  <bookmark href="https://github.com/bregman-arie/devops-resources/blob/master/resources/terraform.md" id="136">
+    <title>devops-resources/resources/terraform.md at master · bregman-arie/devops-resources</title>
+  </bookmark>
+  <bookmark href="https://github.com/bregman-arie/devops-exercises/blob/master/topics/terraform/README.md" id="137">
+    <title>devops-exercises/topics/terraform/README.md at master · bregman-arie/devops-exercises</title>
+  </bookmark>
+  <bookmark href="https://stackoverflow.com/questions/52970830/how-do-i-move-a-resource-to-a-new-tf-file-and-state-without-destroying-and-recre" id="138">
+    <title>terraform - How do I move a resource to a new tf file and state without destroying and recreating? - Stack Overflow</title>
+  </bookmark>
+  <bookmark href="https://wahlnetwork.com/2020/04/29/terraform-plans-modules-and-remote-state/#Remote_Backend_for_State" id="139">
+    <title>Terraform Plans, Modules, and Remote State - Wahl Network</title>
+  </bookmark>
+  <bookmark href="https://parulagg27.medium.com/demystifying-terraform-states-ba8077717ef1" id="140">
+    <title>Terraform state file demystified! | by Parul | Medium</title>
+  </bookmark>
+  <bookmark href="https://dockerlabs.collabnix.com/docker/cheatsheet/" id="141">
+    <title>The Ultimate Docker Cheat Sheet | dockerlabs</title>
+  </bookmark>
+  <bookmark href="https://thenewstack.io/docker-basics-how-to-use-dockerfiles/" id="142">
+    <title>Docker Basics: How to Use Dockerfiles - The New Stack</title>
+  </bookmark>
+  <bookmark href="https://github.com/collabnix/dockerlabs/blob/master/beginners/using-docker-network.md" id="143">
+    <title>dockerlabs/beginners/using-docker-network.md at master · collabnix/dockerlabs</title>
+  </bookmark>
+  <bookmark href="https://betterstack.com/community/questions/mount-host-directory-in-docker-container/" id="178">
+    <title>How to Mount a Host Directory in a Docker Container? | Better Stack Community</title>
+  </bookmark>
+  <bookmark href="https://tel4vn.edu.vn/blog/gioi-thieu-tong-quan-ve-terraform/" id="179">
+    <title>Giới thiệu tổng quan về Terraform - TEL4VN</title>
+  </bookmark>
+  <bookmark href="https://developer.hashicorp.com/terraform/language/values/variables" id="180">
+    <title>Input Variables - Configuration Language | Terraform | HashiCorp Developer</title>
+  </bookmark>
+  <bookmark href="https://linuxupskillchallenge.org/09/?h=iptables#troubleshoot-and-make-a-sad-server-happy" id="181">
+    <title>Day 9 - Diving into networking - Linux Upskill Challenge</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=GFgJkfScVNU" id="182">
+    <title>Learn Docker in 1 Hour | Full Docker Course for Beginners - YouTube</title>
+  </bookmark>
+  <bookmark href="https://spacelift.io/blog/terraform-apply" id="183">
+    <title>Terraform Apply - When to Run &amp; Quick Usage Examples</title>
+  </bookmark>
+  <bookmark href="https://kodekloud.com/blog/keep-docker-container-running/" id="184">
+    <title>How to Keep Docker Container Running</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=_4TIiT0GkOQ&amp;list=PL2RaoMSDpp_nFxorBWEQJ3nA1-PczZBF5&amp;index=14" id="107">
+  <title>Phim Mới 2023 | TÂN LIÊN THÀNH QUYẾT - Tập 15 | Phim Bộ Mới Hay Nhất 2023 - YouTube</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80579068188/TEAMSC-4333+Configure+fix+and+document+Prod+nonProd+Kibana+log+dashboards+for+sonar+and+CB" id="108">
+  <title>kibana logs all platfroms  [TEAMSC-4333] Configure, fix and document Prod/nonProd Kibana log dashboards for sonar and CB - Sonar - Symbio Global Confluence sang wiki</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/76845186959/Provisioning+Team" id="109">
+  <title>Provisioning Team - Sonar - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80518185785/QA+Servers+UI+and+Rest+endpoint" id="164">
+  <title>QA Servers UI and Rest endpoint - Sonar - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/OP/pages/80579592377/PNV+CNA+-+Pibas" id="165">
+  <title>PNV &gt; CNA - Pibas - Operations - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://github.com/wangjohn/mit-courses/tree/master" id="166">
+  <title>GitHub - wangjohn/mit-courses: Repository of course notes and homework mit course</title>
+</bookmark>
+<folder id="177">
+  <title>electricity</title>
+  <folder id="230">
+    <title>New folder</title>
+    <bookmark href="https://www.youtube.com/watch?v=FhQGjavL5Hk" id="266">
+      <title>Nhiều người mua CB chống giật mà vẫn giật chết người vì không biết nó có chống giật được hay không - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Wi81OSIIpoA" id="267">
+      <title>#Điện - Tiếp địa an toàn|Cần lưu ý làm tiếp địa khi xây nhà phố? - Phần Phải TV - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/@danhchientran9257" id="268">
+      <title>Danh Chiến Trần - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Dsih7CLgm_Q" id="269">
+      <title>TWO WAYS TO CONNECT A 2-PUT SWITCH WHAT&apos;S RIGHT AND WRONG - YouTube điện cầu thang</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PLIXW649ZR1GH_-_mp9LpGytxRpxxvv46R" id="270">
+      <title>Điện Dân Dụng - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=P7upI_Y3cEc" id="271">
+      <title>LỚP HỌC ĐIỆN DÂN DỤNG. BỞI KS ĐẠT HƯỚNG DẪN - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=YWZMp03pv7g" id="272">
+      <title>Điện dân dụng cơ bản bài 01 : Điện 3 pha và điện 1 pha 2 dây - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/results?search_query=learn+electrical+engineering+at+home" id="273">
+      <title>learn electrical engineering at home - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/playlist?list=PLWv9VM947MKjuqlJVp5m_Edf66SrFSHx2" id="274">
+      <title>Electricity Basics - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Bgrubw6B_us" id="275">
+      <title>#1099 How I learned electronics - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=IgV1fUR5QNI" id="305">
+      <title>Bài 40 - Kiến thức về An toàn điện - Nếu bạn hiểu biết thì bạn sẽ không còn sợ bị điện giật. - YouTube</title>
+    </bookmark>
+    <bookmark href="https://thietbidienpanasonic.net/thiet-bi-panasonic/cau-dao-tu-dong-mcb-mccb-panasonic/cb-coc-panasonic-bs1113tv.html" id="306">
+      <title>CB cóc Panasonic BS1113TV</title>
+    </bookmark>
+    <bookmark href="https://www.electronics-tutorials.ws/dccircuits/electrical-energy.html" id="307">
+      <title>Electrical Energy, Power and Charge</title>
+    </bookmark>
+    <bookmark href="https://www.thespruce.com/calculate-safe-electrical-load-capacities-1152361" id="308">
+      <title>How to Calculate Electrical Load Capacity for Safe Usage</title>
+    </bookmark>
+    <bookmark href="https://dengarden.com/appliances/Watts-Amps-Kilowatt-Hours-What-Does-it-All-mean" id="309">
+      <title>How to Understand Electricity: Volts, Amps and Watts Explained on Appliances - Dengarden</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.youtube.com/watch?v=LQ6n4cC63eY" id="231">
+    <title>đây là cách lắp đặt máy tắm nước nóng an toàn tuyệt đối không lo bị giật - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=WCzHbPO2Fvo&amp;t=7s" id="232">
+    <title>Chuyện chưa kể về dòng điện | Giải thích về dòng điện | Học Nghề Kỹ Sư Điện &amp; Điện Tử - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=HsOt9m6-_Sg&amp;list=PLQ3lk_s9bCoyk77-n5Ga9jHcccVF0YDMv" id="233">
+    <title>The Easiest and Most Standard Staircase Electrical Circuit Electricity and Water 365 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=J7McqpYafZk" id="234">
+    <title>Mạch đèn cầu thang dùng công tắc 3 cực đúng nhất. - YouTube</title>
+  </bookmark>
+  <bookmark href="https://lcamtuf.coredump.cx/electronics/" id="235">
+    <title>Concise electronics for geeks</title>
+  </bookmark>
+  <bookmark href="https://lcamtuf.substack.com/p/primer-core-concepts-in-electronic" id="236">
+    <title>Primer: core concepts in electronic circuits</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.whattoexpect.com/baby-products/baby-care/best-pacifiers/" id="185">
+  <title>The 9 Best Pacifiers for Babies</title>
+</bookmark>
+<folder id="186">
+  <title>health</title>
+  <bookmark href="https://www.youtube.com/watch?v=_-KNO3GE0l4&amp;list=TLPQMjkwODIwMjS6Q30Bi8P53A&amp;index=4" id="237">
+    <title>Stretching WON’T Fix Forward Head Posture [But THESE exercises will!] - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=yEvEjU4VJG8&amp;list=TLPQMjkwODIwMjS6Q30Bi8P53A&amp;index=3" id="238">
+    <title>PERFECT POSTURE in 14 Days | QUICK Posture Routine (8 Min/Day) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=5J8RIIvEj6k&amp;list=TLPQMjkwODIwMjS6Q30Bi8P53A&amp;index=2" id="239">
+    <title>How To Fix Anterior Pelvic Tilt (FOREVER) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=XWQvmh_INTQ&amp;list=TLPQMjkwODIwMjS6Q30Bi8P53A&amp;index=1" id="240">
+    <title>PERFECT Posture Routine To Unlock Your Sh*t (10 Min/Day) - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/" id="187">
+  <title>Visual guide to SSH tunneling and port forwarding - ITTAVERN.COM</title>
+</bookmark>
+<folder id="276">
+  <title>may lanh</title>
+  <bookmark href="https://mayxaydunghongnhien.com/khac" id="310">
+    <title>Máy Xây Dựng Hồng Nhiên - máy khoan cầm tay, máy khoan điện</title>
+  </bookmark>
+  <bookmark href="https://dienmayhaianh.vn/san-pham/vat-tu-dien-lanh-c28.html/?page=3" id="311">
+    <title>Vật tư điện lạnh chính hãng giá tốt</title>
+  </bookmark>
+  <bookmark href="https://codienhaiau.com/category/chint/rcbo-chint/" id="312">
+    <title>Cb chống giật, RCBO Chint, Bảng Giá 2024 - Codienhaiau.com</title>
+  </bookmark>
+  <bookmark href="https://dienmayhaianh.vn/san-pham/bo-tay-bop-xit-rua-may-lanh-rua-xe-can-noi-15cm-cong-45-do-9741.html" id="313">
+    <title>Bộ tay bóp xịt rửa máy lạnh, rửa xe (cần nối 15cm, cong 45 độ)</title>
+  </bookmark>
+  <bookmark href="https://shopee.vn/product/659799309/23078446965?gads_t_sig=VTJGc2RHVmtYMTlxTFVSVVRrdENkUm9yWVZMbGw0Q214S0d1TzNEZmUwNTNrRFozQllJTjRiY2lSZzkwNERBZ0ZUcmxWbHFuR09iZXl2RndaVVpNRTNUaHBUamlFOTI2U25obTZEeXp1dDdwMW5lSW93Sll5c3VsTjl1dUlpZ1Y&amp;gad_source=1&amp;gclid=EAIaIQobChMIvLCJ1enniAMVjMVMAh1FAg0KEAQYASABEgJp7fD_BwE" id="314">
+    <title>Tay Bóp Xịt Rửa Vệ Sinh Máy Lạnh - Điều Hòa Dạng Cong Có Gắn Khớp Nối 1/4inch (14mm) | Shopee Việt Nam</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=8dn7FH0uRbk" id="315">
+    <title>Sửa Tủ Lạnh Cho Người Mới Bắt Đầu #2 - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=jy3T-SsKwLs" id="316">
+    <title>Hướng Dẫn Tháo Quạt Rữa Vệ Sinh Chuyên Sâu Bên Trong Máy Lạnh Daikin Tại Nhà - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=8bn2sbN5XQw" id="317">
+    <title>Cách tháo giàn lạnh điều hòa Daikin vệ sinh, khắc phục chảy nước. - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=720qzP4rzTI" id="318">
+    <title>Cân Cáp Cho Điều Hòa - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=7XzaF4z605A&amp;list=PL38muKwb3zDv3UnfcHs8hF6t77V4IXqDk" id="319">
+    <title>CÂN CÁP cho máy ĐHKK ga R22, R410a, R32 #kienthucdienlanh #dieuhoa - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=hdHZ2raHwso" id="360">
+    <title>Cách tháo dàn lạnh điều hòa - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=cT9906ov3lw" id="361">
+    <title>Cách nhốt ga và xả ga đuổi khí máy điều hoà khi tháo một con điều hoà và lắp sáng vị trí mới - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=YvIr7jpKaM8" id="362">
+    <title>HƯỚNG DẪN CÁCH TÌM CHỖ HỞ GA ĐIỀU HOÀ - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=IhcUgL4nw5s" id="363">
+    <title>Hướng dẫn tự vệ sinh MÁY LẠNH tại nhà với các bước cực dễ, ai cũng làm được! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=5DjHxySKygQ" id="364">
+    <title>Sài Gòn - Vệ sinh/Rửa máy lạnh trong 30 phút: Sạch và mát, Sáng tới tối kể cả chủ nhật, 200k - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=L_pu8j9Kojc" id="365">
+    <title>phuonggovap hay Instructions for self-cleaning of air conditioners at home || THIS FRIEND HAS NEVER BEEN DONE - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=wXPu8W4KpvE" id="366">
+    <title>PRACTICAL MEASUREMENT IN THE ELECTRICITY OF HIOKI 3280-10 Pliers Amplifier SPECIFICATIONS - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=pAOF3W9Y6R4" id="367">
+    <title>Hướng dẫn sử dụng Ampe Kìm Kẹp Dòng 3266TD | Đồng hồ kẹp vạn năng - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=a9U3n51jQf0" id="277">
+  <title>Viêm mũi dị ứng: Cách điều trị tự nhiên và hiệu quả tại nhà với bài thuốc dân gian | VTC Now - YouTube viem mui</title>
+</bookmark>
+<bookmark href="https://go.dev/doc/effective_go" id="278">
+  <title>Effective Go - The Go Programming Language go book</title>
+</bookmark>
+<bookmark href="https://aws.amazon.com/blogs/mt/monitor-java-apps-running-on-tomcat-server-with-amazon-cloudwatch-application-signals-preview/" id="285">
+  <title>Monitor Java apps running on Tomcat server with Amazon CloudWatch Application Signals (Preview) | AWS Cloud Operations Blog petclinic</title>
+</bookmark>
+<folder id="286">
+  <title>lear go golang</title>
+  <folder id="337">
+    <title>New folder</title>
+    <bookmark href="https://go.dev/doc/effective_go" id="354">
+      <title>Effective Go - The Go Programming Language</title>
+    </bookmark>
+    <bookmark href="https://news.ycombinator.com/item?id=31163709" id="355">
+      <title>Learn Go with Tests | Hacker News</title>
+    </bookmark>
+    <bookmark href="https://quii.gitbook.io/learn-go-with-tests" id="356">
+      <title>Learn Go with Tests | Learn Go with tests</title>
+    </bookmark>
+    <bookmark href="https://gobyexample.com/" id="357">
+      <title>Go by Example</title>
+    </bookmark>
+    <bookmark href="https://github.com/inancgumus/learngo" id="358">
+      <title>GitHub - inancgumus/learngo: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.</title>
+    </bookmark>
+    <bookmark href="https://go.dev/tour/list" id="359">
+      <title>A Tour of Go</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://go.dev/learn/" id="338">
+    <title>Get Started - The Go Programming Language</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=7LIQ1AFX_m0" id="368">
+  <title>Room Tour 2024, phòng làm việc mình có gì??! - YouTube</title>
+</bookmark>
+<bookmark href="https://hub.docker.com/r/microsoft/vscode-devcontainers" id="369">
+  <title>microsoft/vscode-devcontainers - Docker Image | Docker Hub</title>
+</bookmark>
+<bookmark href="https://linuxize.com/series/setting-up-and-configuring-a-mail-server/" id="377">
+  <title>Setting up and configuring a mail server | Linuxize</title>
+</bookmark>
+<bookmark href="https://docs.gitlab.com/ee/ci/yaml/index.html#onlyrefs--exceptrefs" id="393">
+  <title>only block CI/CD YAML syntax reference | GitLab</title>
+</bookmark>
+<bookmark href="https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/" id="394">
+  <title>A list of new(ish) command line tools cli</title>
+</bookmark>
+<bookmark href="https://rwblickhan.org/newsletters/command-line-tools-i-like-2022/" id="395">
+  <title>Command Line Tools I Like (2022) · rwblickhan.org cli</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=3sF7pZnLhfs&amp;list=TLPQMTgxMDIwMjS3Kx28BgfwYg&amp;index=2" id="396">
+  <title>iPhone 16 là đáng mua nhất trong iPhone 16 Series !!! - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=MRtg6A1f2Ko&amp;list=TLPQMTgxMDIwMjS3Kx28BgfwYg&amp;index=6" id="397">
+  <title>iPhone 16/16 Pro Review: Times Have Changed! - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Fd57NOavMWs" id="398">
+  <title>I bought the most MINIMALIST Tech ever. - YouTube hardware gadget review</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Yl_19rCQQB8" id="399">
+  <title>iPhone 16 Ultimate Battery Test! - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=hqf-Rz8BHCY" id="400">
+  <title>iPhone 16 Buyer&apos;s Guide - DON&apos;T BE FOOLED! - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=YpQ_T9FyL5Y" id="401">
+  <title>History of the iPhone - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=NoQfKTXmm_k" id="402">
+  <title>Which iPhone 16 Should YOU Buy? (don&apos;t make a mistake!) - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=Epbk6QypFwg" id="403">
+  <title>YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=4_tXQ9ET-bs" id="404">
+  <title>Should You Buy iPhone 13 in 2024? - YouTube</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=cRPBp2tRxFY" id="405">
+  <title>iPhone 16 / 16 Pro Unboxing - Testing every new feature! - YouTube</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/INFS/pages/76272797044/Praetor" id="406">
+  <title>Praetor - Infrastructure - Symbio Global Confluence</title>
+</bookmark>
+<folder id="407">
+  <title>Kafka</title>
+  <bookmark href="https://www.youtube.com/watch?v=5KN_feUhtTM" id="408">
+    <title>Change Data Capture (CDC) Explained (with examples) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/results?search_query=method+to+sync+database+data+to+external+service" id="409">
+    <title>method to sync database data to external service - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=88j7EEiyqzM" id="410">
+    <title>Debezium - Capturing Data the Instant it Happens (with Gunnar Morling) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Lqv-q2VWNQM" id="411">
+    <title>Practical Change Data Streaming Use Cases with Apache Kafka &amp; Debezium - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=qXIAsgldOB8" id="412">
+    <title>How to do CDC using debezium, kafka and postgres - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=YZRHqRznO-o" id="413">
+    <title>Stream your PostgreSQL changes into Kafka with Debezium - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=dXXfkoXXBbs" id="414">
+    <title>From Zero to Hero with Kafka Connect - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/@brownbagtraining5222" id="415">
+    <title>BrownBag Training - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=YY3rjWfyHGg&amp;t=174s" id="416">
+    <title>Near real-time CDC using DataStream - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=BNbPsiCGQzw" id="417">
+  <title>IBM IT Support - Complete Course | IT Support Technician - Full Course - YouTube</title>
+</bookmark>
+<bookmark href="https://e.vnexpress.net/news/travel/is-it-wasteful-to-spend-600-on-4-days-in-singapore-4807473.html" id="418">
+  <title>Is it wasteful to spend $600 on 4 days in Singapore? - VnExpress International travel</title>
+</bookmark>
+<folder id="419">
+  <title>xe may</title>
+  <folder id="420">
+    <title>New folder</title>
+    <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80695721996/Singapore+APIs+1.0+Design+Documentation" id="423">
+      <title>Singapore APIs (1.0) Design Documentation - Sonar - Symbio Global Confluence</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/CPAAS/pages/80258372223/Sample+Design+Doc+Scam+monitoring+service" id="424">
+      <title>Sample Design Doc (Scam monitoring service) - Connect - Symbio Global Confluence</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/TEC/pages/80209021070/Scam+Service+Solution#3.-Low-level-design" id="425">
+      <title>Scam Service Solution - Technology - Symbio Global Confluence</title>
+    </bookmark>
+    <bookmark href="https://www.heap.io/blog/applying-textbook-data-structures-for-real-life-wins" id="426">
+      <title>Applying Textbook Data Structures for Real Life Wins - Heap | Heap</title>
+    </bookmark>
+    <bookmark href="https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding" id="427">
+      <title>Gears in understanding — LessWrong</title>
+    </bookmark>
+    <bookmark href="https://plantuml.com/component-diagram" id="428">
+      <title>Component Diagram syntax and features</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=HUIYwrev19c" id="429">
+      <title>Cách kiểm tra cuộn điện ba pha không sạc bình - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Fc3HEkUc_iU" id="430">
+      <title>Cách đo kiểm tra cuộn điện mâm lửa 3 pha AB - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=LS2GzWe0xBM" id="431">
+      <title>Cách đo loại trừ cuộn điện ba pha nhanh nhất - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.daotaoxemay.com/news.html@detail@317@497@He-thong-sac-tren-xe-may#:~:text=Ki%E1%BB%83u%20s%E1%BA%A1c%20ba%20pha&amp;text=V%C3%A0%20%C4%91%E1%BA%B7c%20%C4%91i%E1%BB%83m%20nh%E1%BA%ADn%20d%E1%BA%A1ng,s%E1%BA%BD%20%C4%91i%20qua%202%20diot.&amp;text=Khi%20ch%C3%BAng%20ta%20hi%E1%BB%83u%20ra,c%C5%A9ng%20tr%E1%BB%9F%20n%C3%AAn%20d%E1%BB%85%20d%C3%A0ng." id="432">
+      <title>Trung Tâm Đào Tạo Kỹ Thuật Xe Máy Việt Nam</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=wR862VqytNM" id="438">
+      <title>CÁCH ĐO KIỂM TRA SẠC 3 PHA, KẾT NỐI SẠC 3 PHA VỚI BIẾN ÁP 1 PHA - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=sTTi3eRqFYU" id="439">
+      <title>Video 57 Daỵ Sửa Xe: Phần 5 Hệ Thống Sạc Xe Gắn Máy Nguồn 2 Dây Lên Có Mas | Motorcycles TV - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=Y0qOoAgLfrM&amp;list=PLndTzS3PyPLfySnJZNUzVeJE7aaLK6ioN&amp;index=51" id="440">
+      <title>Video 64 daỵ sửa xe: Phần 7 Sạc Xe Gắn Máy Nguồn 3 Dây Lên Không mass &quot; Cầu 3 Pha &quot; | Motorcycles TV - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=ZjOxrD43xrk" id="441">
+      <title>MẠCH SẠC VÀ MẠCH ĐỀ CỦA DÒNG XE ĐỀ TỪ ACG - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=PSpY2Yc5y3Y" id="442">
+      <title>Nguyên lí cơ bản của hệ thống sạc trên xe máy - YouTube</title>
+    </bookmark>
+    <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80137782045/GUIDE+How+to+push+CDR+feeds+from+S3+to+FTP+directory#Steps-to-push-CDR-feeds-via-AWS-CLI" id="443">
+      <title>[GUIDE] How to push CDR feeds from S3 to FTP directory - Sonar - Symbio Global Confluence</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="421">
+  <title>career</title>
+  <bookmark href="https://www.benkuhn.net/11/" id="433">
+    <title>The unreasonable effectiveness of one-on-ones | benkuhn.net</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=BPx1kJlrTnU" id="434">
+    <title>S01E01 - The Perfect 1:1 - Eng. Advice Pod - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ADWkkJtZna4" id="435">
+    <title>I Spent 5 Years Mastering This Technique - The Art Of The 1:1 Meeting - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=G3266h66IRk" id="436">
+    <title>1-on-1 tips from a Principal Engineer / Manager - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://vinaquick.com/products/xe-day-gap-gon-cybex-orfeo-mau-fog-grey" id="422">
+  <title>Xe Đẩy Gấp Gọn Cybex Orfeo - Màu Fog Grey – Shop Vinaquick</title>
+</bookmark>
+<folder id="437">
+  <title>k8s micronaut</title>
+  <bookmark href="https://rancher.eks.shared.au.symbio.global/dashboard/c/c-m-ttvvdwhv/explorer/pod" id="445">
+    <title>Rancher Prime</title>
+  </bookmark>
+  <bookmark href="https://viblo.asia/p/external-secret-quan-ly-va-luu-tru-secret-trong-moi-truong-kubernetes-bXP4WjzqV7G" id="446">
+    <title>External Secret - Cách các hệ thống production đang quản lý secrets</title>
+  </bookmark>
+  <bookmark href="https://viblo.asia/p/kubernetes-practice-trien-khai-nodejs-microservice-tren-kubernetes-phan-1-viet-config-4P856GRRKY3" id="447">
+    <title>Kubernetes Practice - Triển khai nodejs microservice trên Kubernetes - phần 1 - Viết config</title>
+  </bookmark>
+  <bookmark href="https://viblo.asia/p/kubernetes-patterns-behavioral-patterns-singleton-service-1Je5EA4w5nL" id="448">
+    <title>Kubernetes Patterns - Behavioral Patterns: Singleton Service</title>
+  </bookmark>
+  <bookmark href="https://blog.nareshak.com/micronaut-configuration-reading-from-property-sources/" id="449">
+    <title>Micronaut Configuration - Reading from Property Sources</title>
+  </bookmark>
+  <bookmark href="https://docs.micronaut.io/snapshot/guide/index.html#environments" id="450">
+    <title>Micronaut Core</title>
+  </bookmark>
+  <bookmark href="https://guides.micronaut.io/latest/micronaut-aws-secretsmanager-gradle-java.html" id="451">
+    <title>Distributed Configuration with AWS Secrets Manager and the Micronaut Framework</title>
+  </bookmark>
+  <bookmark href="https://blog.kubecost.com/blog/kubernetes-readiness-probe/" id="452">
+    <title>Kubernetes Readiness Probe: Tutorial &amp; Examples - Kubecost Blog</title>
+  </bookmark>
+  <bookmark href="https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/" id="453">
+    <title>Configure Liveness, Readiness and Startup Probes | Kubernetes</title>
+  </bookmark>
+</folder>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/76876212665/Sonar+Entities+and+Fields+Exported+for+Finance+Reporting" id="444">
+  <title>Sonar Entities and Fields Exported for Finance Reporting - Sonar - Symbio Global Confluence</title>
+</bookmark>
+<bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SYSENG/pages/78104762982/Unlocking+Terraform+states" id="454">
+  <title>Unlocking Terraform states - Symbio Core - Symbio Global Confluence dynamodb nguyenla</title>
+</bookmark>
+<folder id="455">
+  <title>swim</title>
+  <bookmark href="https://www.youtube.com/watch?v=AP8epwi7G0s&amp;list=TLPQMjcxMTIwMjSC5ULk83oDHQ&amp;index=6" id="456">
+    <title>5 Surprising Ways to Improve Your Freestyle Time - Tested! - YouTube swim</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=oM4sHl1hTEE" id="457">
+    <title>How To Plan A Swim Workout | Structure Your Next Swimming Session - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=vnayCVeF4LE&amp;list=TLPQMDIwMTIwMjU7tKPn6p6_Jw&amp;index=2" id="458">
+    <title>Why Swimmers Get Shoulder Injuries (And What To Do About It) with Hollie Buerckner - YouTube</title>
+  </bookmark>
+</folder>
+<bookmark href="https://everything.curl.dev/usingcurl/telnet.html" id="459">
+  <title>TELNET - everything curl</title>
+</bookmark>
+<folder id="460">
+  <title>aus job</title>
+  <bookmark href="https://www.google.com/search?q=australia+ai+engineer+jobs+visa+sponsorship&amp;sca_esv=cd7e98c4db4a6188&amp;ei=y1FRZ4eoNfijvr0PgZj0kQk&amp;oq=australia+ai+engineer+jobs+visa+&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiIGF1c3RyYWxpYSBhaSBlbmdpbmVlciBqb2JzIHZpc2EgKgIIADIFECEYoAEyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABSI0VUN0BWIcLcAF4AZABAJgBjQGgAe0FqgEDMC42uAEDyAEA-AEBmAIHoAL_BcICChAAGLADGNYEGEfCAgYQABgWGB7CAggQABiABBiiBMICBBAhGBXCAgUQIRifBZgDAIgGAZAGCJIHAzEuNqAHrSA&amp;sclient=gws-wiz-serp" id="462">
+    <title>australia ai engineer jobs visa sponsorship - Tìm trên Google</title>
+  </bookmark>
+  <bookmark href="https://landing.jobs/tech-jobs-globally/" id="463">
+    <title>Landing.Jobs - Remote work, Relocation &amp; Visa Support</title>
+  </bookmark>
+  <bookmark href="https://relocate.me/australia/hobart/procreate/senior-software-engineer-ios-9973" id="464">
+    <title>Senior Software Engineer - iOS Job at Procreate in Hobart 🇦🇺</title>
+  </bookmark>
+  <bookmark href="https://procreate.com/careers" id="465">
+    <title>Work at Procreate — Empower millions of creatives worldwide.</title>
+  </bookmark>
+</folder>
+<folder id="461">
+  <title>badminton</title>
+  <bookmark href="https://www.youtube.com/watch?v=h9f2hUaw29k" id="466">
+    <title>So sánh 2 loại Lưới Cầu Lông Siêu BỀN của Yonex BG65 và BG65Ti - YouTube</title>
+  </bookmark>
+  <bookmark href="https://shopvnb.com/day-cuoc-cang-vot-kizuna-z65.html" id="467">
+    <title>Dây cước căng vợt Kizuna Z65 | ShopVNB</title>
+  </bookmark>
+  <bookmark href="https://shopvnb.com/day-cuoc-cang-vot-kizuna-z63.html" id="468">
+    <title>Dây cước căng vợt Kizuna Z63 | ShopVNB</title>
+  </bookmark>
+  <bookmark href="https://luongsport.com/san-pham/vot-cau-long-proace-sweet-spot-950-chinh-hang/" id="469">
+    <title>VỢT CẦU LÔNG PRO ACE SWEETSPORT 950 CHÍNH HÃNG</title>
+  </bookmark>
+</folder>
+<folder id="470">
+  <title>tuoi cay</title>
+  <bookmark href="https://thietbituoithongminh.com/danh-muc/bo-tuoi-cay-nha-pho/" id="472">
+    <title>Bộ tưới cây nhà phố tự động tưới rau, cây cảnh sân thượng, ban công</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=eYdRfxFizlM" id="473">
+    <title>Cách tự bắt hệ thống tưới nước tự động cho vườn | Drip Irrigation - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=vPVVfYkettg" id="474">
+    <title>Tưới cây tự động | Hướng dẫn lắp đặt hệ thống tưới tự động chăm sóc cây trồng hiệu quả cho nhà phố - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Y2G-zRFb-6Y" id="475">
+    <title>Review bộ tưới cây tự động chạy pin. Dùng ngon, giá rẻ, Nên mua - YouTube tuoi cay</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.arp242.net/the-art-of-unix-programming/" id="471">
+  <title>The Art of Unix Programming</title>
+</bookmark>
+<bookmark href="https://adabeat.com/fp/erlang-is-easy-to-learn/" id="476">
+  <title>Erlang is easy to learn - Ada Beat</title>
+</bookmark>
+<bookmark href="https://www.evanmiller.org/" id="477">
+  <title>Home Page of Evan Miller</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=lyrJThjjF0g" id="478">
+  <title>The Genius Mind Access - 40 Hz Gamma Binaural Beat - Maximize Cognition, Focus &amp; Memory - YouTube music</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=QAiiiQSD2eM" id="479">
+  <title>How to Swim Distance Freestyle with Minimal Energy! - YouTube swimvice</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=kL2QkfhGhcc" id="480">
+  <title>Use Strategic Thinking to Create the Life You Want - YouTube peter</title>
+</bookmark>
+<bookmark href="https://searchengineland.com/chatgpt-search-vs-google-analysis-449676" id="481">
+  <title>ChatGPT search vs. Google: A deep dive analysis of 62 queries</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=pzZydB78Eyc" id="482">
+  <title>AWS re:Invent 2022 - Deep dive into Amazon Aurora and its innovations (DAT326) - YouTube</title>
+</bookmark>
+<bookmark href="https://news.ycombinator.com/item?id=42600846" id="483">
+  <title>How NAT Traversal Works (2020) | Hacker News</title>
+</bookmark>
+<bookmark href="https://news.ycombinator.com/item?id=42583947" id="484">
+  <title>B-Trees: More Than I Thought I&apos;d Want to Know | Hacker News</title>
+</bookmark>
+<bookmark href="https://www.reddit.com/r/libgen/wiki/index/#wiki_.25BA_what_is_the_url_for_libgen.3F" id="485">
+  <title>Reddit - libgen</title>
+</bookmark>
+<bookmark href="https://modern-sql.com/slides" id="486">
+  <title>A presentation of the most important modern SQL features on SlideShare</title>
+</bookmark>
+<bookmark href="https://app.codecrafters.io/courses/kafka/overview" id="487">
+  <title>Build your own Kafka | CodeCrafters</title>
+</bookmark>
+<bookmark href="edge://newtab/" id="488">
+  <title>New tab</title>
+</bookmark>
+<bookmark href="https://lem-project.github.io/" id="489">
+  <title>Lem common lisp</title>
+</bookmark>
+<bookmark href="https://incoherency.co.uk/blog/pages/puzzles.html" id="490">
+  <title>James Stanley - Puzzles hacker</title>
+</bookmark>
+<bookmark href="http://simplecpudesign.com/" id="491">
+  <title>Simple CPU design</title>
+</bookmark>
+<bookmark href="https://rustle.ca/posts/articles/work-from-home-lighting" id="492">
+  <title>How to improve your WFH lighting to reduce eye strain • Russell Baylis - Designer</title>
+</bookmark>
+<bookmark href="https://bo-tato.github.io/2023/06/17/adventures-in-the-land-of-lisp.html" id="493">
+  <title>Adventures in the Land of Lisp | Ramblings of a misspelled potato protohacker common lisp</title>
+</bookmark>
+<bookmark href="https://rlhfbook.com/" id="494">
+  <title>(WIP) A Little Bit of Reinforcement Learning from Human Feedback</title>
+</bookmark>
+<bookmark href="https://learn.microsoft.com/en-us/archive/blogs/ericlippert/graph-colouring-with-simple-backtracking-part-one" id="495">
+  <title>Graph Colouring With Simple Backtracking, Part One | Microsoft Learn</title>
+</bookmark>
+<bookmark href="https://muabansachcu.vn/products/cam-nang-song-sot-cho-cha-me-co-con-2-7-tuoi-joanna-faber-julie-king" id="496">
+  <title>Cẩm nang &quot;sống sót&quot; cho cha mẹ có con 2-7 tuổi - Joanna Faber &amp; Julie – Momo Bookstore sach cu</title>
+</bookmark>
+<bookmark href="https://batansach.com/product-category/mua-sach-cua-tan/page/2/" id="497">
+  <title>Mua sách của Tân sach cu</title>
+</bookmark>
+<bookmark href="https://akobor.me/posts/wiring-up-micronaut-jooq-flyway-and-testcontainers-with-r2dbc" id="498">
+  <title>Wiring up Micronaut, jOOQ, Flyway and Testcontainers with R2DBC | @akobor</title>
+</bookmark>
+<bookmark href="https://github.com/seglo/kafka-lag-exporter" id="499">
+  <title>seglo/kafka-lag-exporter: Monitor Kafka Consumer Group Latency with Kafka Lag Exporter</title>
+</bookmark>
+<bookmark href="https://www.techtalksweekly.io/p/100-most-watched-software-engineering" id="500">
+  <title>🏆 100 Most Watched Software Engineering Talks Of 2024</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=QR2gXckfbV4" id="501">
+  <title>Eating ONLY Vietnamese Street Food For 24 Hours (like a local) - YouTube travel</title>
+</bookmark>
+<folder id="502">
+  <title>ytube</title>
+  <bookmark href="https://www.youtube.com/watch?v=Em1M0PSd6Tk" id="506">
+    <title>Chuyên gia tài chính Review Upstream - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=3pf_PXyt1Ik&amp;list=TLPQMDIwMzIwMjXsh5HnLknI0w&amp;index=1" id="507">
+    <title>pov: you’re an ancient chinese scholar preparing for the imperial examination | study playlist - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=JHyx1jgdv9U&amp;list=TLPQMDIwMzIwMjXsh5HnLknI0w&amp;index=3" id="508">
+    <title>our once in a lifetime trip | abroad with my school friends - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=x5rUhsRIE84&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=3" id="509">
+    <title>Nghệ thuật THAO TÚNG TÂM LÝ của kẻ mạnh hơn 10 quyển Đắc Nhân Tâm (Q cơ trong Alice in Borderland) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=UrJt-CypwiM&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=7" id="510">
+    <title>Common Side Effects | S1E1 (Full Episode) | adult swim - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=VItBlmlWE4U&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=9" id="511">
+    <title>China&apos;s city of the future: utopia or dystopia? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=TjxKu_WQoBU&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=10" id="512">
+    <title>How China got too good at making batteries &amp; EVs - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Q55d0bB2HIo&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=11" id="513">
+    <title>This walk with American in Shenzhen changed my view of China - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=rSgvI1ELfqQ&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=12" id="514">
+    <title>America CAN&apos;T Compete with China&apos;s NEW High-Speed Future! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=pGEWPY3nqHw&amp;list=TLPQMDIwMzIwMjXmjwuzt0F-jg&amp;index=8" id="515">
+    <title>Casually Explained: The Political Compass - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=EWvNQjAaOHw" id="528">
+    <title>How I use LLMs - YouTube</title>
+  </bookmark>
+  <bookmark href="https://nymag.com/strategist/article/best-gifts-toys-for-a-1-year-old.html" id="529">
+    <title>37 Best Gifts for a 1-Year-Old 2025 | The Strategist</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=fVMlUd9orf4" id="530">
+    <title>How To Take Notes as a Programmer - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ouvbeb2wSGA" id="531">
+    <title>Financial Literacy In 63 Minutes - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=RgV47l59NYs" id="532">
+    <title>Yazi: The CLI File Manager That’s Faster Than Any GUI File Manager - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=jAMegKEetx4" id="533">
+    <title>programming projects that taught me how to code - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=t8zn1ns1M74" id="534">
+    <title>✨Tuyển tập quán ngon, mồi bén em My hay ghé ở Sài Gòn - YouTube</title>
+  </bookmark>
+</folder>
+<folder id="503">
+  <title>lisp</title>
+  <bookmark href="https://www.quora.com/How-hard-is-it-to-learn-LISP/answer/Jan-M-Savage" id="517">
+    <title>Jan M Savage&apos;s answer to How hard is it to learn LISP? - Quora</title>
+  </bookmark>
+  <bookmark href="https://www.quora.com/How-can-I-learn-Python-faster-and-effectively/answer/Jan-M-Savage" id="518">
+    <title>Jan M Savage&apos;s answer to How can I learn Python faster and effectively? - Quora</title>
+  </bookmark>
+  <bookmark href="https://www.quora.com/How-hard-is-it-to-learn-Common-Lisp-from-the-ground-up-How-useful-would-it-be-in-terms-of-getting-a-job-as-a-software-engineer-or-data-scientist/answer/Francis-King-75" id="519">
+    <title>Francis King&apos;s answer to How hard is it to learn Common Lisp from the ground up? How useful would it be in terms of getting a job as a software engineer or data scientist? - Quora</title>
+  </bookmark>
+  <bookmark href="https://kingcons.io/notes/common-lisp.html" id="520">
+    <title>Common Lisp</title>
+  </bookmark>
+  <bookmark href="https://danthedev.com/lisp-in-your-language" id="521">
+    <title>Lisp in Your Language</title>
+  </bookmark>
+  <bookmark href="https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl" id="522">
+    <title>Learn Common Lisp by Example: GTK GUI with SBCL</title>
+  </bookmark>
+  <bookmark href="https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/" id="523">
+    <title>These years in Common Lisp: 2023-2024 in review - Lisp journey</title>
+  </bookmark>
+  <bookmark href="https://portacle.github.io/" id="524">
+    <title>Portacle - A Portable Common Lisp Development Environment</title>
+  </bookmark>
+  <bookmark href="https://sites.google.com/cs.washington.edu/cse341winter2022/home" id="525">
+    <title>CSE 341 Winter 2022</title>
+  </bookmark>
+  <bookmark href="https://courses.cs.washington.edu/courses/cse341/18wi/videos/#unit1-videos" id="526">
+    <title>UW CSE 341: Programming Languages Videos</title>
+  </bookmark>
+  <bookmark href="https://courses.cs.washington.edu/courses/cse341/18au/videos/unit1.html" id="545">
+    <title>UW CSE341, Autumn 2018</title>
+  </bookmark>
+  <bookmark href="https://courses.cs.washington.edu/courses/cse341/18au/#lectures" id="546">
+    <title>UW CSE341, Autumn 2018</title>
+  </bookmark>
+  <bookmark href="https://www.quora.com/How-hard-is-it-to-learn-Common-Lisp-from-the-ground-up-How-useful-would-it-be-in-terms-of-getting-a-job-as-a-software-engineer-or-data-scientist" id="547">
+    <title>How hard is it to learn Common Lisp from the ground up? How useful would it be in terms of getting a job as a software engineer or data scientist? - Quora</title>
+  </bookmark>
+</folder>
+<bookmark href="https://stackoverflow.com/questions/27898407/intellij-idea-with-ideavim-cannot-copy-text-from-another-source" id="504">
+  <title>Intellij IDEA with ideavim. Cannot copy text from another source - Stack Overflow</title>
+</bookmark>
+<bookmark href="https://www.amazon.com/Awesome-Robotics-Projects-Kids-Activities/dp/1641526769/143-4036305-7256421?psc=1" id="505">
+  <title>Awesome Robotics Projects for Kids: 20 Original STEAM Robots and Circuits to Design and Build (Awesome STEAM Activities for Kids): Katovich, Bob: 9781641526760: Amazon.com: Books</title>
+</bookmark>
+<folder id="516">
+  <title>AI LLM </title>
+  <bookmark href="https://martinfowler.com/tags/generative%20AI.html" id="535">
+    <title>generative AI</title>
+  </bookmark>
+  <bookmark href="https://github.com/readme/guides/coding-generative-ai" id="536">
+    <title>Harness the power of generative AI for software development</title>
+  </bookmark>
+  <bookmark href="https://karpathy.github.io/2016/09/07/phd/" id="537">
+    <title>A Survival Guide to a PhD</title>
+  </bookmark>
+  <bookmark href="https://www.facebook.com/photo/?fbid=10153513303246693&amp;set=a.10150421913831693" id="538">
+    <title>Facebook</title>
+  </bookmark>
+  <bookmark href="https://x.com/karpathy/status/1895242932095209667" id="539">
+    <title>(1) Andrej Karpathy on X: &quot;New 2h11m YouTube video: How I Use LLMs This video continues my general audience series. The last one focused on how LLMs are trained, so I wanted to follow up with a more practical guide of the entire LLM ecosystem, including lots of examples of use in my own life. Chapters https://t.co/urVqhSr69c&quot; / X</title>
+  </bookmark>
+  <bookmark href="https://x.com/marc_louvion/status/1894404738944295406" id="540">
+    <title>(1) Marc Lou on X: &quot;Learn how to code a SaaS from 0 using AI. I made this free course for beginners to build an internet startup: 1. Learn the coding fundamentals 2. Build a SaaS with a modern tech stack 3. Code and design 10x faster with AI (the video is 3 hours long, bookmark this) https://t.co/wY5Vf9nelO&quot; / X</title>
+  </bookmark>
+  <bookmark href="https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/?utm_source=pocket_saves" id="541">
+    <title>How to Code Using AI – ChatGPT Programming Course</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=iO1mwxPNP5A" id="542">
+    <title>Masterclass: AI-driven Development for Programmers - YouTube</title>
+  </bookmark>
+  <bookmark href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/" id="543">
+    <title>Here’s how I use LLMs to help me write code</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=AJpK3YTTKZ4" id="544">
+    <title>Introducing Claude Code - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=dRaHQRxJAEs" id="550">
+    <title>Anthropic Claude Code with Sonnet 3.7 in 15 Minutes - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=qNxrPri1V0I" id="551">
+    <title>Learn Machine Learning Like a GENIUS and Not Waste Time - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=-FRBotBLc1o" id="552">
+    <title>Building an App with ZERO Coding Knowledge is NOW Possible (Claude 3.7 in Cursor) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=x2WtHZciC74" id="553">
+    <title>Claude 3.7 goes hard for programmers… - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=RudrWy9uPZE" id="554">
+    <title>I Switched 50% of My AI Work to Claude, Here&apos;s Why - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=sn4C90AN-Z0" id="555">
+    <title>stream #60 : multi AI assistants for #coding - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=TQsP_PlCY1I" id="556">
+    <title>Build Anything with MCP Agents, Here’s How - YouTube</title>
+  </bookmark>
+  <bookmark href="https://simonwillison.net/2024/Sep/20/using-llms-for-code/" id="557">
+    <title>Notes on using LLMs for code</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=43312652" id="558">
+    <title>With AI you need to think bigger | Hacker News</title>
+  </bookmark>
+  <folder id="559">
+    <title>tools</title>
+    <bookmark href="https://www.read.ai/microsoft" id="560">
+      <title>Productivity AI for Microsoft Teams, Apps, and Outlook | Read</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough" id="567">
+    <title>Getting started with AI: Good enough prompting</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=V-zhv95AhF8" id="568">
+    <title>Cursor AI Tricks That Made Me a Better Solo Developer (&amp; more productive) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=-5qkSRXSWtY" id="569">
+    <title>AI Agents Explained: How They Think, Plan, and Take Action! - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=cxl3tPWLOQ8" id="570">
+    <title>🧠 Learn MCP by building an SQL AI agent - YouTube</title>
+  </bookmark>
+  <bookmark href="https://bloomberg.github.io/foml/#home" id="571">
+    <title>Foundations of Machine Learning</title>
+  </bookmark>
+  <bookmark href="https://mlip-cmu.github.io/book/index.html" id="572">
+    <title>Cover - Machine Learning in Production: From Models to Products</title>
+  </bookmark>
+  <bookmark href="https://github.com/VikParuchuri/marker" id="573">
+    <title>VikParuchuri/marker: Convert PDF to markdown + JSON quickly with high accuracy</title>
+  </bookmark>
+  <bookmark href="https://ghuntley.com/screwed/" id="574">
+    <title>Dear Student: Yes, AI is here, you&apos;re screwed unless you take action...</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=43444574" id="575">
+    <title>Math for Computer Science and Machine Learning [pdf] | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://addyo.substack.com/p/the-70-problem-hard-truths-about" id="576">
+    <title>The 70% problem: Hard truths about AI-assisted coding</title>
+  </bookmark>
+  <bookmark href="https://ezyang.github.io/ai-blindspots/" id="577">
+    <title>AI Blindspots | AI Blindspots</title>
+  </bookmark>
+</folder>
+<bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
+  <title>6. Layout — The Hitchhiker&apos;s Guide to PlantUML documentation</title>
+</bookmark>
+<bookmark href="https://alexn.org/blog/2025/03/15/firefox-extensions/" id="548">
+  <title>My Favorite Firefox Extensions - Alexandru Nedelcu</title>
+</bookmark>
+<folder id="549">
+  <title>programming tools</title>
+  <bookmark href="https://www.youtube.com/watch?v=lQzCtQzvYPU" id="561">
+    <title>FZF: The Fuzzy Finder That 10x’s Your Terminal Productivity - YouTube</title>
+  </bookmark>
+  <bookmark href="https://github.com/sxyazi/yazi" id="562">
+    <title>sxyazi/yazi: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.</title>
+  </bookmark>
+  <bookmark href="https://web.archive.org/web/20111029025603/http://www.bluegecko.net/mysql/debugging-stored-procedures/" id="563">
+    <title>Debugging Stored procedures - Blue Gecko</title>
+  </bookmark>
+  <bookmark href="https://github.com/CaptTofu/Stored-procedure-debugging-routines" id="564">
+    <title>CaptTofu/Stored-procedure-debugging-routines: Stored procedures that help you to debug stored procedures</title>
+  </bookmark>
+  <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/index.html" id="565">
+    <title>Welcome to The Hitchhiker’s Guide to PlantUML! — The Hitchhiker&apos;s Guide to PlantUML documentation</title>
+  </bookmark>
+  <bookmark href="https://codingdojo.org/kata/" id="566">
+    <title>Kata - Coding Dojo</title>
+  </bookmark>
+</folder>
+</xbel>
