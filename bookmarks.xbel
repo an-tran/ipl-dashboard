@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :580: for Floccus bookmark sync browser extension -->
+<!--- highestId :581: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1711,6 +1711,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=LPZh9BOjkQs" id="580">
     <title>Large Language Models explained briefly - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=Me_TRo1zxxA" id="581">
+    <title>Hãy thay đổi cách bạn học ngoại ngữ! - YouTube</title>
   </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
