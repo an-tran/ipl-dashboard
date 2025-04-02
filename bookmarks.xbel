@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :581: for Floccus bookmark sync browser extension -->
+<!--- highestId :582: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1738,6 +1738,9 @@
   </bookmark>
   <bookmark href="https://codingdojo.org/kata/" id="566">
     <title>Kata - Coding Dojo</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=cw34KMPSt4k" id="582">
+    <title>How I deploy serverless containers for free - YouTube</title>
   </bookmark>
 </folder>
 <bookmark href="https://codewithyury.com/docker-run-vs-cmd-vs-entrypoint/" id="579">
