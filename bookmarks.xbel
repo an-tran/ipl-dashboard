@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :592: for Floccus bookmark sync browser extension -->
+<!--- highestId :593: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1777,6 +1777,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=JRFQnc6jKyU&amp;list=TLPQMTAwNDIwMjVenzAinFX5iQ&amp;index=4" id="592">
     <title>Điện Mặt Trời Mái Nhà So Sánh Giữa Kêu Thợ Và Tự Lắp .Thợ sẽ dần mất chén cơm vì lý do này - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=CK5B8ac73BI" id="593">
+    <title>Điện mặt trời mọi người khoan đầu tư pin lưu trữ vội- Anh thợ khả năng nộp ngân sách vì khịa mình - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
