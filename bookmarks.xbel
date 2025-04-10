@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :590: for Floccus bookmark sync browser extension -->
+<!--- highestId :592: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1769,8 +1769,14 @@
   <bookmark href="https://www.google.com/search?sca_esv=929e6fda5b57cc4c&amp;udm=7&amp;q=diy+%C4%91i%E1%BB%87n+m%E1%BA%B7t+tr%E1%BB%9Di&amp;sa=X&amp;ved=2ahUKEwjxrJeZscqMAxW9jK8BHTr7Ms8Q8ccDKAJ6BAgfEAQ&amp;biw=2505&amp;bih=1356&amp;dpr=1.5" id="590">
     <title>diy điện mặt trời - Google Search</title>
   </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=KNS_xuieWJ4&amp;list=TLPQMTAwNDIwMjVenzAinFX5iQ&amp;index=2" id="591">
+    <title>Nếu Đang Có Ý Định Lắp Năng Lượng Mặt Trời Thì Mọi Người Nên Xem Video Này Để Không Tốn Học Phí - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=8sMPH0fzLB0" id="585">
+    <title>Hệ năng lượng mặt trời 4-5kw 43 triệu, thợ lắp 80 triệu khách hàng khóc thét. A-Z cách lắp dễ lắm - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=JRFQnc6jKyU&amp;list=TLPQMTAwNDIwMjVenzAinFX5iQ&amp;index=4" id="592">
+    <title>Điện Mặt Trời Mái Nhà So Sánh Giữa Kêu Thợ Và Tự Lắp .Thợ sẽ dần mất chén cơm vì lý do này - YouTube</title>
+  </bookmark>
 </folder>
-<bookmark href="https://www.youtube.com/watch?v=8sMPH0fzLB0" id="585">
-  <title>Hệ năng lượng mặt trời 4-5kw 43 triệu, thợ lắp 80 triệu khách hàng khóc thét. A-Z cách lắp dễ lắm - YouTube</title>
-</bookmark>
 </xbel>
