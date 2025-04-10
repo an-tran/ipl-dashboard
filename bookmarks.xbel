@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :583: for Floccus bookmark sync browser extension -->
+<!--- highestId :590: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1751,5 +1751,26 @@
 </bookmark>
 <bookmark href="https://www.youtube.com/watch?v=Me_TRo1zxxA" id="581">
   <title>Hãy thay đổi cách bạn học ngoại ngữ! - YouTube learn english</title>
+</bookmark>
+<folder id="584">
+  <title>solar</title>
+  <bookmark href="https://genk.vn/tai-che-hon-1000-cuc-pin-laptop-lam-nguon-nang-luong-nguoi-dan-ong-song-8-nam-ma-khong-phai-tra-tien-dien-20250102144848223.chn?utm_source=pocket_saves" id="586">
+    <title>Tái chế hơn 1.000 cục pin laptop làm nguồn năng lượng, người đàn ông sống 8 năm mà không phải trả tiền điện</title>
+  </bookmark>
+  <bookmark href="https://secondlifestorage.com/index.php?forums/diy-battery-project-builds.36/" id="587">
+    <title>DIY Battery Project Builds | Second Life Storage &amp; Solar</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?app=desktop&amp;utm_source=pocket_saves&amp;v=F_VlfgNql8g" id="588">
+    <title>#74 How did I manage to install a solar power system myself? - YouTube</title>
+  </bookmark>
+  <bookmark href="https://tinhte.vn/thread/dien-mat-troi-cung-tu-van-chia-se-va-thao-luan-nao-cac-bac.2931937/?utm_source=pocket_saves" id="589">
+    <title>Điện Mặt Trời – Cùng tư vấn, chia sẻ và thảo luận nào các bác | Viết bởi NTV8888</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?sca_esv=929e6fda5b57cc4c&amp;udm=7&amp;q=diy+%C4%91i%E1%BB%87n+m%E1%BA%B7t+tr%E1%BB%9Di&amp;sa=X&amp;ved=2ahUKEwjxrJeZscqMAxW9jK8BHTr7Ms8Q8ccDKAJ6BAgfEAQ&amp;biw=2505&amp;bih=1356&amp;dpr=1.5" id="590">
+    <title>diy điện mặt trời - Google Search</title>
+  </bookmark>
+</folder>
+<bookmark href="https://www.youtube.com/watch?v=8sMPH0fzLB0" id="585">
+  <title>Hệ năng lượng mặt trời 4-5kw 43 triệu, thợ lắp 80 triệu khách hàng khóc thét. A-Z cách lắp dễ lắm - YouTube</title>
 </bookmark>
 </xbel>
