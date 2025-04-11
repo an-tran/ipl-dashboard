@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :597: for Floccus bookmark sync browser extension -->
+<!--- highestId :598: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1676,9 +1676,6 @@
   <bookmark href="https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough" id="567">
     <title>Getting started with AI: Good enough prompting</title>
   </bookmark>
-  <bookmark href="https://www.youtube.com/watch?v=V-zhv95AhF8" id="568">
-    <title>Cursor AI Tricks That Made Me a Better Solo Developer (&amp; more productive) - YouTube</title>
-  </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=-5qkSRXSWtY" id="569">
     <title>AI Agents Explained: How They Think, Plan, and Take Action! - YouTube</title>
   </bookmark>
@@ -1714,6 +1711,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=llRUKwqMah4" id="597">
     <title>Introducing Pico - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=V-zhv95AhF8" id="598">
+    <title>Cursor AI Tricks That Made Me a Better Solo Developer (&amp; more productive) - YouTube</title>
   </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
