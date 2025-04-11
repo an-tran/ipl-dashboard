@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :599: for Floccus bookmark sync browser extension -->
+<!--- highestId :600: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1717,6 +1717,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=3289vhOUdKA" id="599">
     <title>Cursor AI Tutorial for Beginners [2025 Edition] - YouTube</title>
+  </bookmark>
+  <bookmark href="https://vnexpress.net/cach-tat-theo-doi-ngam-tren-dien-thoai-android-4871416.html" id="600">
+    <title>Cách tắt &apos;theo dõi ngầm&apos; trên điện thoại Android - Báo VnExpress Công nghệ</title>
   </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
