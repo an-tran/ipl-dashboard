@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :595: for Floccus bookmark sync browser extension -->
+<!--- highestId :596: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1786,6 +1786,9 @@
   </bookmark>
   <bookmark href="https://www.google.com/search?q=l%E1%BA%AFp+%C4%91%E1%BA%B7t+%C4%91i%E1%BB%87n+m%E1%BA%B7t+tr%E1%BB%9Di+gia+%C4%91%C3%ACnh+forum&amp;sca_esv=51482c3aa25c1847&amp;ei=BPv1Z--PH7ra2roPg4vuuQU&amp;ved=0ahUKEwjvoebrkcqMAxU6rVYBHYOFO1cQ4dUDCBA&amp;uact=5&amp;oq=l%E1%BA%AFp+%C4%91%E1%BA%B7t+%C4%91i%E1%BB%87n+m%E1%BA%B7t+tr%E1%BB%9Di+gia+%C4%91%C3%ACnh+forum&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiMmzhuq9wIMSR4bq3dCDEkWnhu4duIG3hurd0IHRy4budaSBnaWEgxJHDrG5oIGZvcnVtMgUQIRigAUioDFCCA1jPCnABeAGQAQCYAYoDoAGhDKoBBTItMi4zuAEDyAEA-AEBmAIGoAK6DMICChAAGLADGNYEGEfCAgYQABgWGB7CAgUQABjvBcICCBAAGIAEGKIEwgIEECEYFZgDAIgGAZAGCJIHBzEuMC4yLjOgB_8YsgcFMi0yLjO4B7MM&amp;sclient=gws-wiz-serp" id="595">
     <title>lắp đặt điện mặt trời gia đình forum - Google Search</title>
+  </bookmark>
+  <bookmark href="https://vnexpress.net/lap-dien-mat-troi-ho-gia-dinh-the-nao-cho-toi-uu-4377818.html" id="596">
+    <title>Lắp điện mặt trời hộ gia đình thế nào cho tối ưu - Báo VnExpress Công nghệ</title>
   </bookmark>
 </folder>
 </xbel>
