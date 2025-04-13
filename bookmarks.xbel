@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :604: for Floccus bookmark sync browser extension -->
+<!--- highestId :605: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1810,6 +1810,9 @@
   </bookmark>
   <bookmark href="https://voz.vn/t/diy-powertools-handtools-chia-se-kinh-nghiem.252131/" id="603">
     <title>kiến thức - DIY - Powertools, Handtools &amp; Chia sẻ kinh nghiệm! | VOZ</title>
+  </bookmark>
+  <bookmark href="https://nghemoc.vn/products/may-khoan-bua-va-van-vit-makita-hp03000-10mm" id="605">
+    <title>Máy khoan búa và vặn vít Makita HP0300 (10mm) – mochaiphat</title>
   </bookmark>
 </folder>
 </xbel>
