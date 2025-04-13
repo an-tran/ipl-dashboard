@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :600: for Floccus bookmark sync browser extension -->
+<!--- highestId :601: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1799,5 +1799,8 @@
 </folder>
 <bookmark href="https://vnexpress.net/cach-tat-theo-doi-ngam-tren-dien-thoai-android-4871416.html" id="600">
   <title>Cách tắt &apos;theo dõi ngầm&apos; trên điện thoại Android - Báo VnExpress Công nghệ</title>
+</bookmark>
+<bookmark href="https://dcsg.com.vn/bo-mui-khoan-va-mui-vit-75-chi-tiet-makita-e-15110" id="601">
+  <title>Bộ mũi khoan và mũi vít 75 chi tiết Makita E-15110</title>
 </bookmark>
 </xbel>
