@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :606: for Floccus bookmark sync browser extension -->
+<!--- highestId :607: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1816,6 +1816,9 @@
   </bookmark>
   <bookmark href="https://voz.vn/t/nen-mua-%C4%91au-vit-cho-may-khoan-van-vit-nhu-the-nao-a.833501/" id="606">
     <title>thắc mắc - Nên mua đầu vít cho máy khoan vặn vít như thế nào ạ? | VOZ</title>
+  </bookmark>
+  <bookmark href="https://xsafe.vn/may-khoan-dung-pin-p20s-total-tdli20011" id="607">
+    <title>Máy khoan dùng pin 20V Total TDLI20011</title>
   </bookmark>
 </folder>
 </xbel>
