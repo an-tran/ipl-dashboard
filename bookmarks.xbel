@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :608: for Floccus bookmark sync browser extension -->
+<!--- highestId :610: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1822,6 +1822,12 @@
   </bookmark>
   <bookmark href="https://thietbicn.com/san-pham/may-khoan-be-tong-mt814-maktec/" id="608">
     <title>Máy khoan bê tông MT814 Maktec - THIẾT BỊ CN</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=2u4I0aBOMO8&amp;pp=0gcJCdgAo7VqN5tD" id="609">
+    <title>Cách Chọn Máy Khoan Về Dùng Gia Đình Sao Cho Phù Hợp - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=WpcaKfSL4lE&amp;list=TLPQMjIwNDIwMjVx3ZBJK815dQ&amp;index=4" id="610">
+    <title>Một Số Mũi Khoan Mũi Vít Thông Dụng Cho Máy Khoan Máy Bắn Vít - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
