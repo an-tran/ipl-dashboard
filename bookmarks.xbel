@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :611: for Floccus bookmark sync browser extension -->
+<!--- highestId :612: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1831,6 +1831,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=WpcaKfSL4lE&amp;list=TLPQMjIwNDIwMjVx3ZBJK815dQ&amp;index=2" id="611">
     <title>Một Số Mũi Khoan Mũi Vít Thông Dụng Cho Máy Khoan Máy Bắn Vít - YouTube</title>
+  </bookmark>
+  <bookmark href="https://hsu.cy/2024/07/neges/" id="612">
+    <title>The New Essential Guide to Electronics in Shenzhen - neverland</title>
   </bookmark>
 </folder>
 </xbel>
