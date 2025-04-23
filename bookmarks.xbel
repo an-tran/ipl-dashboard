@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :615: for Floccus bookmark sync browser extension -->
+<!--- highestId :616: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1843,6 +1843,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/playlist?list=PLNx89373hpKVb3tMPfRMUjmYNkkXohRv9" id="615">
     <title>Practical Electronics Course - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=9IOTAZD4OaM" id="616">
+    <title>The Holy Grail of Electronics | Practical Electronics for Inventors - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
