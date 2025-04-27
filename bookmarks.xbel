@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :623: for Floccus bookmark sync browser extension -->
+<!--- highestId :624: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1867,6 +1867,9 @@
   <title>misc</title>
   <bookmark href="https://logback.qos.ch/codes.html#nested_if_element" id="618">
     <title>Logback If element</title>
+  </bookmark>
+  <bookmark href="https://vnexpress.net/cach-bac-si-73-tuoi-duy-tri-suc-khoe-nhu-thanh-nien-4879202.html" id="624">
+    <title>health Cách bác sĩ 73 tuổi duy trì sức khỏe như thanh niên - Báo VnExpress Sức khỏe</title>
   </bookmark>
 </folder>
 </xbel>
