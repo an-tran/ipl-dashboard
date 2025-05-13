@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :630: for Floccus bookmark sync browser extension -->
+<!--- highestId :631: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1885,6 +1885,9 @@
   </bookmark>
   <bookmark href="https://denvaar.dev/posts/problem_solving_example.html" id="629">
     <title>Problem Solving | denvaar&apos;s Site</title>
+  </bookmark>
+  <bookmark href="https://aaronbos.dev/posts/update-json-postgresql" id="631">
+    <title>Updating JSON Data in PostgreSQL</title>
   </bookmark>
 </folder>
 </xbel>
