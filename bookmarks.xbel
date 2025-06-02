@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :631: for Floccus bookmark sync browser extension -->
+<!--- highestId :635: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1888,6 +1888,18 @@
   </bookmark>
   <bookmark href="https://aaronbos.dev/posts/update-json-postgresql" id="631">
     <title>Updating JSON Data in PostgreSQL</title>
+  </bookmark>
+</folder>
+<folder id="632">
+  <title>hongkong</title>
+  <bookmark href="https://www.youtube.com/watch?v=qjnLSZLiClc" id="633">
+    <title>Hong Kong vs Mainland China: 9 Differences - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=e8H1wj_LwS0" id="634">
+    <title>HƯỚNG DẪN DU LỊCH HONGKONG TỰ TÚC 2025. ĂN GÌ CHƠI GÌ TẠI HỒNG KÔNG. Hong Kong travel - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=6OTHDVp8Mj0" id="635">
+    <title>REVIEW ẨM THỰC HỒNG KÔNG 2025 . Những Quán ăn ngon nổi tiếng nhất tại HongKong. Du Lịch Hongkong - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
