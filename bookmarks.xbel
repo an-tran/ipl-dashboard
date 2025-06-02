@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :635: for Floccus bookmark sync browser extension -->
+<!--- highestId :638: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1900,6 +1900,15 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=6OTHDVp8Mj0" id="635">
     <title>REVIEW ẨM THỰC HỒNG KÔNG 2025 . Những Quán ăn ngon nổi tiếng nhất tại HongKong. Du Lịch Hongkong - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/search?q=du+lich+hong+kong&amp;sca_esv=48b5062a4474d02d&amp;udm=7&amp;biw=1225&amp;bih=716&amp;ei=uh85aNP_A5movr0PoavyOA&amp;ved=0ahUKEwjTxPOimsqNAxUZlK8BHaGVHAcQ4dUDCBA&amp;uact=5&amp;oq=du+lich+hong+kong&amp;gs_lp=EhZnd3Mtd2l6LW1vZGVsZXNzLXZpZGVvIhFkdSBsaWNoIGhvbmcga29uZzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgQQABgeMgQQABgeMgQQABgeMgQQABgeMgQQABgeSMgVUABYxxBwA3gAkAEBmAHCAqABkR2qAQYyLTExLjK4AQPIAQD4AQGYAgWgArsEwgIKEAAYBxgIGAoYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgUQABjvBcICCBAAGAcYCBgewgIIEAAYBRgNGB7CAggQABiiBBiJBcICBhAAGAcYHsICDhAAGIAEGJECGLEDGIoFwgILEAAYgAQYkQIYigXCAhAQABiABBixAxiDARiKBRgKwgIHEAAYgAQYCsICChAAGIAEGEMYigWYAwCSBwUzLjAuMqAHnF6yBwMyLTK4B7EEwgcFMC4yLjPIBxA&amp;sclient=gws-wiz-modeless-video" id="636">
+    <title>du lich hong kong - Google Search</title>
+  </bookmark>
+  <bookmark href="https://alexeiontheroad.com/2024/05/14/only-one-day-in-hong-kong/" id="637">
+    <title>Only One Day in Hong Kong – Alexei on the Road</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=rFW_KCxAHNw" id="638">
+    <title>&quot;Ăn sập&quot; Hồng Kông: Chục món lạ từ lòng đất đến bầu trời |Du lịch ẩm thực Hongkong P1 - YouTube</title>
   </bookmark>
 </folder>
 </xbel>
