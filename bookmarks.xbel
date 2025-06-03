@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :641: for Floccus bookmark sync browser extension -->
+<!--- highestId :642: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1915,6 +1915,9 @@
   </bookmark>
   <bookmark href="https://vnexpress.net/48-gio-o-hong-kong-cho-nguoi-di-lan-dau-4892082.html" id="641">
     <title>48 giờ ở Hong Kong cho người đi lần đầu - Báo VnExpress Du lịch</title>
+  </bookmark>
+  <bookmark href="https://vnexpress.net/6-dia-chi-an-dem-o-hong-kong-4793897.html" id="642">
+    <title>6 địa chỉ ăn đêm ở Hong Kong - Báo VnExpress Du lịch</title>
   </bookmark>
 </folder>
 </xbel>
