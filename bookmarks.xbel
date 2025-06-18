@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :646: for Floccus bookmark sync browser extension -->
+<!--- highestId :647: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1930,6 +1930,9 @@
   <title>read code</title>
   <bookmark href="https://deepwiki.com/codecrafters-io/build-your-own-x/6.3-bittorrent-clients" id="646">
     <title>BitTorrent Clients | codecrafters-io/build-your-own-x | DeepWiki</title>
+  </bookmark>
+  <bookmark href="https://diskuv.com/dk/help/latest/" id="647">
+    <title>dk</title>
   </bookmark>
 </folder>
 </xbel>
