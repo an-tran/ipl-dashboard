@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :647: for Floccus bookmark sync browser extension -->
+<!--- highestId :648: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1408,6 +1408,9 @@
   </bookmark>
   <bookmark href="https://luongsport.com/san-pham/vot-cau-long-proace-sweet-spot-950-chinh-hang/" id="469">
     <title>VỢT CẦU LÔNG PRO ACE SWEETSPORT 950 CHÍNH HÃNG</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=lXQJQ52urm0" id="648">
+    <title>Những Bài Tập Cơ Bản Nhưng Hiệu Quả Ngoài Sức Tưởng Tượng ! #badminton #vietbao #caulongvietnam - YouTube</title>
   </bookmark>
 </folder>
 <folder id="470">
