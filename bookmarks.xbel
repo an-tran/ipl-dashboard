@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :653: for Floccus bookmark sync browser extension -->
+<!--- highestId :654: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1948,6 +1948,9 @@
   <title>kid</title>
   <bookmark href="https://www.nytimes.com/wirecutter/gifts/best-gifts-toys-for-1-year-olds/" id="652">
     <title>The 32 Best Gifts for 1-Year-Olds for 2025 | Reviews by Wirecutter</title>
+  </bookmark>
+  <bookmark href="https://www.nytimes.com/wirecutter/reviews/best-bath-toys/" id="654">
+    <title>The 15 Best Bath Toys of 2025 | Reviews by Wirecutter</title>
   </bookmark>
 </folder>
 </xbel>
