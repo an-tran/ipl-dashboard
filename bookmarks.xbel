@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :657: for Floccus bookmark sync browser extension -->
+<!--- highestId :658: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1420,6 +1420,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=Q6V4IHHSv2Q" id="651">
     <title>Badminton - Grip for Forehand &amp; Backhand - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=xEOXbI99axU" id="658">
+    <title>Can Lift but Can&apos;t Smash Down? Your Elbow Position is Wrong! Proper Technique Powerful Smash (EN CC) - YouTube</title>
   </bookmark>
 </folder>
 <folder id="470">
