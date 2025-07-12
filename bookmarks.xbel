@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :667: for Floccus bookmark sync browser extension -->
+<!--- highestId :668: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1753,6 +1753,9 @@
   </bookmark>
   <bookmark href="https://github.com/PickleBoxer/dev-chatgpt-prompts" id="626">
     <title>PickleBoxer/dev-chatgpt-prompts: 📚 Personal collection of ChatGPT prompts for developers!</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=zYGDpG-pTho" id="668">
+    <title></title>
   </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
