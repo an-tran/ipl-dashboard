@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :670: for Floccus bookmark sync browser extension -->
+<!--- highestId :671: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1757,6 +1757,9 @@
   <bookmark href="https://www.youtube.com/watch?v=zYGDpG-pTho" id="668">
     <title></title>
   </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=sIugzOQz7Vk" id="671">
+    <title>These 5 AI Agents Will Make You $1M With Zero Employees - YouTube</title>
+  </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
   <title>6. Layout — The Hitchhiker&apos;s Guide to PlantUML documentation</title>
@@ -1959,7 +1962,7 @@
     <title>VỪA ĂN VỪA TÁM | Tại sao vẫn mê Hong Kong dù đã không còn &quot;hoàng kim&quot;? - YouTube</title>
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=kLntZF5oD8g" id="670">
-    <title> hack hacking I took an &quot;entry level&quot; CIA test - YouTube</title>
+    <title>hack hacking I took an &quot;entry level&quot; CIA test - YouTube</title>
   </bookmark>
 </folder>
 <folder id="645">
