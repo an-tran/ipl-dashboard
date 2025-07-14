@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :671: for Floccus bookmark sync browser extension -->
+<!--- highestId :672: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1759,6 +1759,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=sIugzOQz7Vk" id="671">
     <title>These 5 AI Agents Will Make You $1M With Zero Employees - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.techadvisory.org/2023/10/maximizing-efficiency-10-tips-to-speed-up-windows-11/" id="672">
+    <title>Maximizing efficiency: 10 Tips to speed up Windows 11 – Tech Advisory</title>
   </bookmark>
 </folder>
 <bookmark href="https://crashedmind.github.io/PlantUMLHitchhikersGuide/layout/layout.html" id="527">
