@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :674: for Floccus bookmark sync browser extension -->
+<!--- highestId :675: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1930,6 +1930,9 @@
   </bookmark>
   <bookmark href="https://speakerdeck.com/eileencodes/the-magic-of-rails" id="674">
     <title>[RailsConf 2023 Opening Keynote] The Magic of Rails - Speaker Deck</title>
+  </bookmark>
+  <bookmark href="https://github.com/farmi-vn/aidra0" id="675">
+    <title>farmi-vn/aidra0: AIDRA0 - Trợ thủ AI của bạn, phiên ban 0, chế độ CLI</title>
   </bookmark>
 </folder>
 <folder id="632">
