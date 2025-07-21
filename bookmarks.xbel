@@ -1702,6 +1702,9 @@
     <bookmark href="https://www.read.ai/microsoft" id="560">
       <title>Productivity AI for Microsoft Teams, Apps, and Outlook | Read</title>
     </bookmark>
+    <bookmark href="https://github.com/farmi-vn/aidra0" id="675">
+      <title>farmi-vn/aidra0: AIDRA0 - Trợ thủ AI của bạn, phiên ban 0, chế độ CLI</title>
+    </bookmark>
   </folder>
   <bookmark href="https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough" id="567">
     <title>Getting started with AI: Good enough prompting</title>
@@ -1930,9 +1933,6 @@
   </bookmark>
   <bookmark href="https://speakerdeck.com/eileencodes/the-magic-of-rails" id="674">
     <title>[RailsConf 2023 Opening Keynote] The Magic of Rails - Speaker Deck</title>
-  </bookmark>
-  <bookmark href="https://github.com/farmi-vn/aidra0" id="675">
-    <title>farmi-vn/aidra0: AIDRA0 - Trợ thủ AI của bạn, phiên ban 0, chế độ CLI</title>
   </bookmark>
 </folder>
 <folder id="632">
