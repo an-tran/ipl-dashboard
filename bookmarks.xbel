@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :678: for Floccus bookmark sync browser extension -->
+<!--- highestId :679: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1942,6 +1942,9 @@
   </bookmark>
   <bookmark href="https://lifestyle.znews.vn/khong-nhan-ra-da-nang-post1571378.html" id="678">
     <title>Không nhận ra Đà Nẵng - Địa điểm du lịch - ZNEWS.VN travel</title>
+  </bookmark>
+  <bookmark href="https://genk.vn/nho-ai-tren-galaxy-a-series-moi-ban-co-the-len-duong-du-lich-he-ngay-va-luon-chang-can-sach-huong-dan-2025060411381067.chn" id="679">
+    <title>Nhờ AI trên Galaxy A series mới, bạn có thể lên đường du lịch hè ngay và luôn chẳng cần sách hướng dẫn samsung galaxy ai travel</title>
   </bookmark>
 </folder>
 <folder id="632">
