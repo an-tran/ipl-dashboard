@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :682: for Floccus bookmark sync browser extension -->
+<!--- highestId :683: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1951,6 +1951,9 @@
   </bookmark>
   <bookmark href="https://vnexpress.net/ban-online-tren-san-nhung-nua-nam-khong-chot-duoc-don-nao-4920683.html" id="681">
     <title>Bán online trên sàn nửa năm không có đơn hàng - Báo VnExpress Kinh doanh shoppee tiktok kinhdoanh</title>
+  </bookmark>
+  <bookmark href="https://vnexpress.net/ky-luat-thep-cua-cau-be-ha-noi-hoc-homeschool-4922845.html" id="683">
+    <title>&apos;Kỷ luật thép&apos; của cậu bé Hà Nội học homeschool - Báo VnExpress Đời sống</title>
   </bookmark>
 </folder>
 <folder id="632">
