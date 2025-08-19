@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :683: for Floccus bookmark sync browser extension -->
+<!--- highestId :684: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -1954,6 +1954,9 @@
   </bookmark>
   <bookmark href="https://vnexpress.net/ky-luat-thep-cua-cau-be-ha-noi-hoc-homeschool-4922845.html" id="683">
     <title>&apos;Kỷ luật thép&apos; của cậu bé Hà Nội học homeschool - Báo VnExpress Đời sống</title>
+  </bookmark>
+  <bookmark href="https://pmm.symbio.internal/graph/login" id="684">
+    <title>Percona Monitoring and Management</title>
   </bookmark>
 </folder>
 <folder id="632">
