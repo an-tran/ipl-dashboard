@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :679: for Floccus bookmark sync browser extension -->
+<!--- highestId :680: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -259,6 +259,9 @@
   </bookmark>
   <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80613376130/MVP02+4.80.0+202406" id="89">
     <title>MVP02 upgrade MVP02_4.80.0_202406 - Sonar - Symbio Global Confluence</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=-5K_Y-lpKLQ" id="680">
+    <title>HOÀNG HÔN THÁNG TÁM - ĐÔNG HÙNG &amp; ĐÀO TỐ LOAN | ST : PHẠM TOÀN THẮNG | ALBUM 30? - YouTube</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.youtube.com/watch?v=sUWAZo-03u0" id="82">
