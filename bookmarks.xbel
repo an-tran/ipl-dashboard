@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :701: for Floccus bookmark sync browser extension -->
+<!--- highestId :703: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -325,6 +325,12 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=_kcP2GP_ECM&amp;list=TLPQMTIwOTIwMjXTR1yrUxuLKg&amp;index=9" id="701">
     <title>Kiếp Ve Sầu (Đan Trường) – Bản Cover Metal Rock | Rock Việt - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=sBcY-22wOrw&amp;list=TLPQMTIwOTIwMjXTR1yrUxuLKg&amp;index=8" id="702">
+    <title>Cơn Mưa Ngang Qua - Metal Rock Version - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=YGya2WSwtJI&amp;list=TLPQMTIwOTIwMjXTR1yrUxuLKg&amp;index=7" id="703">
+    <title>DÁNG EM ( Metal Rock ) - YouTube</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.youtube.com/watch?v=sUWAZo-03u0" id="82">
