@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :705: for Floccus bookmark sync browser extension -->
+<!--- highestId :707: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -337,6 +337,12 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=20zDjPCCUk8&amp;list=TLPQMTIwOTIwMjXTR1yrUxuLKg&amp;index=4" id="705">
     <title>VỆT NẮNG CUỐI TRỜI ( Heavy Metal Rock ) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=vujcJw4kf9M&amp;list=TLPQMTIwOTIwMjXTR1yrUxuLKg&amp;index=3" id="706">
+    <title>Ngày Mai Người Ta Lấy Chồng – Metal Rock Version - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ZFAn47shXAU" id="707">
+    <title>PHAI DẤU CUỘC TÌNH ( Metal Rock ) - YouTube</title>
   </bookmark>
 </folder>
 <bookmark href="https://www.youtube.com/watch?v=sUWAZo-03u0" id="82">
