@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :717: for Floccus bookmark sync browser extension -->
+<!--- highestId :718: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2147,5 +2147,8 @@
 </folder>
 <bookmark href="https://www.youtube.com/watch?v=40u3RCuMpSk" id="716">
   <title>THIS is the Best Method to Teach Yourself Any Language - YouTube en</title>
+</bookmark>
+<bookmark href="https://www.hungryhuy.com/vietnamese-food-guide/" id="718">
+  <title>24 Best Vietnamese Food Dishes You Should Try - Hungry Huy</title>
 </bookmark>
 </xbel>
