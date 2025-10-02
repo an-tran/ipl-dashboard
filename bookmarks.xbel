@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :720: for Floccus bookmark sync browser extension -->
+<!--- highestId :721: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2156,5 +2156,8 @@
 </bookmark>
 <bookmark href="https://roadmap.sh/system-design" id="720">
   <title>System Design Roadmap</title>
+</bookmark>
+<bookmark href="https://www.google.com/maps/place/10%C2%B036&apos;15.1%22N+106%C2%B035&apos;24.1%22E/@10.6046851,106.5896749,415m/data=!3m1!1e3!4m4!3m3!8m2!3d10.6041944!4d106.5900278?entry=ttu&amp;g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D" id="721">
+  <title>Google Maps đất chị QA</title>
 </bookmark>
 </xbel>
