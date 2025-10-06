@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :722: for Floccus bookmark sync browser extension -->
+<!--- highestId :786: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2163,4 +2163,196 @@
 <bookmark href="https://neetcode.io/roadmap" id="722">
   <title>Neetcode Algo interview</title>
 </bookmark>
+<folder id="723">
+  <title>How to learn, AI</title>
+  <bookmark href="https://academy.zerotomastery.io/courses/aws-web-app/lectures/48476656" id="724">
+    <title>Project FAQ | Zero To Mastery Academy</title>
+  </bookmark>
+  <bookmark href="https://github.com/micronaut-projects/micronaut-starter/pull/2707/files" id="725">
+    <title>Adding json-schema-generator feature by elifKurtay · Pull Request #2707 · micronaut-projects/micronaut-starter · GitHub</title>
+  </bookmark>
+  <bookmark href="https://cs2113-s24.github.io/j/exceptions" id="726">
+    <title>Exceptions | CS 2113 Software Engineering - Spring 2024</title>
+  </bookmark>
+  <bookmark href="https://serverfault.com/questions/1057081/why-does-kubectl-port-forward-require-the-destination-service-to-be-bound-to-loc" id="727">
+    <title>kubernetes - Why does kubectl port-forward require the destination service to be bound to localhost? - Server Fault</title>
+  </bookmark>
+  <bookmark href="https://catern.com/inheritance.html" id="728">
+    <title>Inheritance was invented as a performance hack</title>
+  </bookmark>
+  <bookmark href="https://unix.stackexchange.com/questions/106663/how-to-run-a-command-that-involves-redirecting-or-piping-with-sudo" id="729">
+    <title>shell - How to run a command that involves redirecting or piping with sudo? - Unix &amp; Linux Stack Exchange</title>
+  </bookmark>
+  <folder id="730">
+    <title>tmp</title>
+    <bookmark href="https://andymatuschak.org/prompts/" id="734">
+      <title>How to write good prompts: using spaced repetition to create understanding</title>
+    </bookmark>
+    <bookmark href="https://www.samueltaylor.org/articles/better-learning.html" id="735">
+      <title>Effective Learning (a review of Ultralearning) - Samuel Taylor</title>
+    </bookmark>
+    <bookmark href="https://lobste.rs/s/csdwrg/deliberate_practice_for_developers" id="736">
+      <title>Deliberate Practice for Developers | Lobsters</title>
+    </bookmark>
+    <bookmark href="https://cse.buffalo.edu/~rapaport/howtostudy.html" id="737">
+      <title>HOW TO STUDY</title>
+    </bookmark>
+    <bookmark href="https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/" id="738">
+      <title>10 Things Software Developers Should Learn about Learning – Communications of the ACM</title>
+    </bookmark>
+    <bookmark href="https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9" id="739">
+      <title>How I Built a Learning Machine - DEV Community</title>
+    </bookmark>
+    <bookmark href="https://alexanderell.is/posts/rpc-from-scratch/" id="740">
+      <title>Writing an RPC From Scratch · Caffeinspiration</title>
+    </bookmark>
+    <bookmark href="https://mcfunley.com/i-tried-to-use-ai-to-read-an-ai-book" id="741">
+      <title>Dan McKinley :: I Tried to use AI to Read an AI Book</title>
+    </bookmark>
+    <bookmark href="https://www.oneusefulthing.org/p/getting-started-with-ai-good-enough" id="742">
+      <title>Getting started with AI: Good enough prompting</title>
+    </bookmark>
+    <bookmark href="https://ghuntley.com/screwed/" id="743">
+      <title>Dear Student: Yes, AI is here, you&apos;re screwed unless you take action...</title>
+    </bookmark>
+    <bookmark href="https://mlagerberg.com/blog-ai-copilot/" id="753">
+      <title>Programming with an AI copilot: My perspective as a senior dev</title>
+    </bookmark>
+    <bookmark href="https://crawshaw.io/blog/programming-with-llms" id="754">
+      <title>crawshaw - 2025-01-06</title>
+    </bookmark>
+    <bookmark href="https://lobste.rs/s/gvkxlf/here_s_how_i_use_llms_help_me_write_code?utm_source=pocket_saves" id="755">
+      <title>Here’s how I use LLMs to help me write code | Lobsters</title>
+    </bookmark>
+    <bookmark href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/" id="756">
+      <title>Here’s how I use LLMs to help me write code</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80822763521/AWS-MySQL+8.0+Upgrade+MySQL+DB+to+8.0+and+fix+issues" id="731">
+    <title>[AWS-MySQL 8.0]Upgrade MySQL DB to 8.0 and fix issues - Sonar - Symbio Global Confluence</title>
+  </bookmark>
+  <bookmark href="https://medium.com/@mathijsl/building-wwiw-a-flutter-journey-with-openais-chatgpt-278fb8e58a44" id="732">
+    <title>Building WWIW: A Flutter Journey with OpenAI’s ChatGPT | by Mathijs Lagerberg | Medium</title>
+  </bookmark>
+  <bookmark href="https://archive.is/20250125170313/https://medium.com/@terrancecraddock/no-code-platforms-are-secretly-killing-your-productivity-the-enterprise-efficiency-trap-you-cant-436ac9a0ce0e" id="733">
+    <title>No-Code Platforms Are Secretly Killing Your Productivity: The Enterprise Efficiency Trap You Can’t Afford to Ignore | by Terrance Craddock | Jan, 2025 | Medium</title>
+  </bookmark>
+  <bookmark href="https://www.baeldung.com/guava-rate-limiter" id="744">
+    <title>Quick Guide to the Guava RateLimiter | Baeldung</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=43561253" id="745">
+    <title>US Administration announces 34% tariffs on China, 20% on EU | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=FnL0L6Wljxc" id="746">
+    <title>Structure Over Chaos | How to Self-Learn Like a PhD Student - YouTube</title>
+  </bookmark>
+  <bookmark href="https://nickvsnetworking.com/anatomy-of-local-number-portability-in-australia/" id="747">
+    <title>Anatomy of Local Number Portability in Australia | Nick vs Networking</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/PSP/pages/79793226735/Multi-region+deployments+and+kafka+integration" id="748">
+    <title>Multi-region deployments and kafka integration - Program - Symbio Prime - Symbio Global Confluence</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/CPAAS/pages/80218166723/Connect+Services+Directory" id="749">
+    <title>Connect Services Directory - Connect - Symbio Global Confluence</title>
+  </bookmark>
+  <bookmark href="https://vietcurrency.vn/threads/ai-deep-learning-h%E1%BB%99i-qu%C3%A1n.4023/" id="750">
+    <title>Thảo luận - AI-Deep Learning Hội Quán | Diễn đàn tài chính | Tiền tệ | Chứng khoán VN|Forex Market | Currency | Stock Market | Gold | Oil..</title>
+  </bookmark>
+  <bookmark href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude" id="751">
+    <title>Anthropic Education Report: How University Students Use Claude \ Anthropic</title>
+  </bookmark>
+  <bookmark href="https://livesys.se/posts/the-chroot-technique/" id="752">
+    <title>The chroot Technique - a Swiss army multitool for Linux systems | Living Systems_</title>
+  </bookmark>
+  <bookmark href="https://www.thecoder.cafe/p/100-go-mistakes" id="757">
+    <title>So, I Wrote a Book: The Story Behind 100 Go Mistakes</title>
+  </bookmark>
+  <bookmark href="https://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html" id="758">
+    <title>Abstract Heresies: Why I Program in Lisp</title>
+  </bookmark>
+  <bookmark href="https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html" id="759">
+    <title>Erlang’s not about lightweight processes and message passing…</title>
+  </bookmark>
+  <bookmark href="https://mlagerberg.com/blog-ai-copilot/" id="760">
+    <title>Programming with an AI copilot: My perspective as a senior dev</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=43606027" id="761">
+    <title>Glamorous Toolkit | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://github.blog/developer-skills/application-development/how-github-engineers-learn-new-codebases/?utm_source=pocket_saves" id="762">
+    <title>How GitHub engineers learn new codebases - The GitHub Blog</title>
+  </bookmark>
+  <bookmark href="https://www.joshwcomeau.com/blog/the-post-developer-era/" id="763">
+    <title>The Post-Developer Era • Josh W. Comeau</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSP-4056" id="764">
+    <title>[TEAMSP-4056] Kakadu - Terraform R53 Sonar url - Jira</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/80565731808/TEAMSP-4258+Deactive+all+front+ends+on+common+profile+pool+routes" id="765">
+    <title>[TEAMSP-4258] Deactive all front ends on common profile pool routes - Sonar - Symbio Global Confluence</title>
+  </bookmark>
+  <bookmark href="https://transactional.blog/blog/2025-decomposing-transactional-systems" id="766">
+    <title>Decomposing Transactional Systems</title>
+  </bookmark>
+  <bookmark href="https://transactional.blog/how-to-learn/philosophy" id="767">
+    <title>Philosophy of How to Learn</title>
+  </bookmark>
+  <bookmark href="https://github.com/cognitivetech/ollama-ebook-summary?tab=readme-ov-file" id="768">
+    <title>cognitivetech/ollama-ebook-summary: LLM for Long Text Summary (Comprehensive Bulleted Notes)</title>
+  </bookmark>
+  <bookmark href="https://blog.bytebytego.com/p/coupling-and-cohesion-the-two-principles" id="769">
+    <title>Coupling and Cohesion: The Two Principles for Effective Architecture</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=36342931&amp;utm_source=pocket_saves" id="770">
+    <title>Sequence diagrams, the only good thing UML brought to software development | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=43746461" id="771">
+    <title>Decomposing Transactional Systems | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html" id="772">
+    <title>On Ousterhout&apos;s Dichotomy</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=XN02F9ikYHI" id="773">
+    <title>Build Epic Startups: NotebookLM + Gemini 2.5 Workflow - YouTube</title>
+  </bookmark>
+  <bookmark href="https://tante.cc/2025/04/27/are-ai-system-really-tools/" id="774">
+    <title>Are &quot;AI&quot; systems really tools?</title>
+  </bookmark>
+  <bookmark href="https://claytonwramsey.com/blog/drawings/" id="775">
+    <title>How I make figures</title>
+  </bookmark>
+  <bookmark href="https://mnfgroup.atlassian.net/browse/TEAMSC-4914" id="776">
+    <title>[TEAMSC-4914] Feature Request| Channel limit on Remote Trunk - Jira</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=6bsElXsU6a4" id="777">
+    <title>Thảo luận về cuốn sách &apos;Đèn Cù&apos; của tác giả Trần Đĩnh - YouTube</title>
+  </bookmark>
+  <bookmark href="https://training.knowbe4.com/ui/login" id="778">
+    <title>Get Started | KnowBe4</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=ibNvyTD4Icg" id="779">
+    <title>Vim Motions Strategy Guide - YouTube</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=44034918" id="780">
+    <title>Jules: An asynchronous coding agent | Hacker News</title>
+  </bookmark>
+  <bookmark href="https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/" id="781">
+    <title>6 Weeks of Claude Code - Puzzmo Blog</title>
+  </bookmark>
+  <bookmark href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/" id="782">
+    <title>No, AI is not Making Engineers 10x as Productive</title>
+  </bookmark>
+  <bookmark href="https://hazelweakly.me/blog/stop-building-ai-tools-backwards/#stop-building-ai-tools-backwards" id="783">
+    <title>Stop Building AI Tools Backwards | Hazel Weakly</title>
+  </bookmark>
+  <bookmark href="https://antirez.com/news/154" id="784">
+    <title>Coding with LLMs in the summer of 2025 (an update) - &lt;antirez&gt;</title>
+  </bookmark>
+  <bookmark href="https://news.ycombinator.com/item?id=45230677" id="785">
+    <title>AI coding | Hacker News</title>
+  </bookmark>
+  <bookmark href="edge://favorites/?id=23144" id="786">
+    <title>Favorites</title>
+  </bookmark>
+</folder>
 </xbel>
