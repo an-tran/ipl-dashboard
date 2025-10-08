@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :786: for Floccus bookmark sync browser extension -->
+<!--- highestId :787: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2355,4 +2355,7 @@
     <title>Favorites</title>
   </bookmark>
 </folder>
+<bookmark href="http://sonar-uat-au-mvp-02-apps.symbio.internal:8093/sonar_rest/swagger-ui.html#!/customer-handler/getUsingGET" id="787">
+  <title>Sonar API internal Swagger UI</title>
+</bookmark>
 </xbel>
