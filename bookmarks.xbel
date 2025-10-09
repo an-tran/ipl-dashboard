@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :789: for Floccus bookmark sync browser extension -->
+<!--- highestId :790: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2363,5 +2363,8 @@
 </bookmark>
 <bookmark href="https://www.youtube.com/watch?v=172U6BJidiQ" id="789">
   <title>code indian Projects I’d Do To Get My 40LPA Job Fast, If I’m Starting Over. - YouTube</title>
+</bookmark>
+<bookmark href="https://toihoctiengtrung.com/hoc-tieng-trung" id="790">
+  <title>Học Tiếng Trung Miễn Phí: 15 Bài Học Sơ Cấp Mới Nhất learn-chinese</title>
 </bookmark>
 </xbel>
