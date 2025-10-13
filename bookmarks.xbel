@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :803: for Floccus bookmark sync browser extension -->
+<!--- highestId :815: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2403,6 +2403,42 @@
     </folder>
     <bookmark href="https://viblo.asia/p/set-up-swagger-2-voi-spring-rest-api-djeZ1zj3lWz" id="803">
       <title>Set up Swagger 2 với Spring REST API</title>
+    </bookmark>
+  </folder>
+  <folder id="804">
+    <title>tomcat</title>
+    <bookmark href="https://stackoverflow.com/questions/9603070/how-to-enable-embedded-tomcat-logging" id="805">
+      <title>How to enable embedded tomcat logging - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://northcoder.com/post/embedded-tomcat-v90-and-v100/" id="806">
+      <title>Embedded Tomcat v9.0 and v10.0 | northCoder</title>
+    </bookmark>
+    <bookmark href="https://tomcat.apache.org/tomcat-9.0-doc/index.html" id="807">
+      <title>Apache Tomcat 9 (9.0.110) - Documentation Index</title>
+    </bookmark>
+    <bookmark href="https://zetcode.com/web/embeddedtomcat/" id="808">
+      <title>Embedded Tomcat</title>
+    </bookmark>
+    <bookmark href="https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html#Embedded_Tomcat" id="809">
+      <title>Apache Tomcat 9 (9.0.110) - Security Considerations</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/45169586/how-do-i-embed-tomcat-in-a-spring-framework-mvc-application" id="810">
+      <title>java - How do I embed Tomcat in a Spring Framework MVC application? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/search?q=tutorial+embedded+tomcat+spring+war&amp;sca_esv=9d1da833d90f763d&amp;ei=SiLmaJuFDKPE1e8Pjtr68AI&amp;start=10&amp;sa=N&amp;sstk=Af77f_d2GGGo9NRFIKnnS8aryVWlVdVGD24fZFozyGHwCOb5-DLRWJW5HRQysj09c5qCS-I1ZbXVDFXNOv09NXVsyl81VCmZzkzgjA&amp;ved=2ahUKEwib0uKFmZSQAxUjYvUHHQ6tHi4Q8tMDegQIDBAE&amp;biw=2505&amp;bih=1348&amp;dpr=1.5" id="811">
+      <title>tutorial embedded tomcat spring war - Google Search</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/spring-boot-war-tomcat-deploy" id="812">
+      <title>Deploy a Spring Boot WAR into a Tomcat Server | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.vojtechruzicka.com/spring-boot-add-war-to-embedded-tomcat/" id="813">
+      <title>How to deploy war files to Spring Boot Embedded Tomcat | Vojtech Ruzicka&apos;s Programming Blog</title>
+    </bookmark>
+    <bookmark href="https://auth0.com/blog/spring-5-embedded-tomcat-8-gradle-tutorial/" id="814">
+      <title>Spring 5, Embedded Tomcat 8, and Gradle: a Quick Tutorial</title>
+    </bookmark>
+    <bookmark href="https://github.com/sojohnnysaid/project-guide" id="815">
+      <title>sojohnnysaid/project-guide: Your magical AI-powered project documentation generator</title>
     </bookmark>
   </folder>
 </folder>
