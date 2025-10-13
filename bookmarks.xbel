@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :791: for Floccus bookmark sync browser extension -->
+<!--- highestId :802: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2370,4 +2370,37 @@
 <bookmark href="https://mnfgroup.atlassian.net/wiki/spaces/SON/pages/81102241793/TEAMSC-5014+Sonar+VM+s+-+Vulnerability+Reports+Application+-+February-2025+-+Part+1" id="791">
   <title>[TEAMSC-5014] Sonar VM&apos;s - Vulnerability Reports(Application) - February-2025 - Part 1 - Sonar - Symbio Global Confluence nguyenla tomcat upgrade</title>
 </bookmark>
+<folder id="792">
+  <title>For Works</title>
+  <folder id="793">
+    <title>swagger</title>
+    <folder id="794">
+      <title>swagger</title>
+      <bookmark href="https://springfox.github.io/springfox/docs/current/#getting-started" id="795">
+        <title>Springfox Reference Documentation</title>
+      </bookmark>
+      <bookmark href="https://github.com/springfox/springfox/blob/master/docs/transitioning-to-v2.md" id="796">
+        <title>springfox/docs/transitioning-to-v2.md at master · springfox/springfox</title>
+      </bookmark>
+      <bookmark href="https://swagger.io/docs/specification/v3_0/basic-structure/" id="797">
+        <title>Basic Structure | Swagger Docs</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=what+is+openapi+and+swagger&amp;oq=what+is+openapi+and+s&amp;gs_lcrp=EgRlZGdlKgoIABAAGIAEGPkHMgoIABAAGIAEGPkHMgYIARBFGDkyCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhge0gEIODk3M2owajGoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8" id="798">
+        <title>what is openapi and swagger - Google Search</title>
+      </bookmark>
+      <bookmark href="https://github.com/springfox/springfox/issues/3336" id="799">
+        <title>Upgrade from 2.9.2 to 2.10.0 causes /swagger-resources to be unavailable · Issue #3336 · springfox/springfox</title>
+      </bookmark>
+      <bookmark href="https://github.com/springfox/springfox/issues/3070#issuecomment-648578094" id="800">
+        <title>Springfox 3.0 Progress report... · Issue #3070 · springfox/springfox</title>
+      </bookmark>
+      <bookmark href="https://github.com/swagger-api/swagger-core/wiki/Annotations" id="801">
+        <title>Annotations · swagger-api/swagger-core Wiki</title>
+      </bookmark>
+      <bookmark href="https://community.smartbear.com/discussions/swaggerostools/why-does-springopenapi3-0-still-need-io-swagger-models-dependency/208351" id="802">
+        <title>Why does SpringOpenApi3.0 still need io.swagger.models dependency? | SmartBear Community</title>
+      </bookmark>
+    </folder>
+  </folder>
+</folder>
 </xbel>
