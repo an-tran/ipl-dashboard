@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :817: for Floccus bookmark sync browser extension -->
+<!--- highestId :818: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2446,6 +2446,9 @@
   <title>CHINESE</title>
   <bookmark href="https://www.youtube.com/watch?v=6IIT78IY2i0" id="816">
     <title>002 Chia sẻ cách học chữ Hán (quay lại :10 bộ thủ đầu tiên và ví dụ) - YouTube</title>
+  </bookmark>
+  <bookmark href="https://dieuphap.net/hochanngu/" id="818">
+    <title>Học Phiên Dịch Hán Ngữ - dieuphap.net</title>
   </bookmark>
 </folder>
 </xbel>
