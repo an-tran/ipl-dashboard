@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :821: for Floccus bookmark sync browser extension -->
+<!--- highestId :822: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2459,5 +2459,8 @@
 </folder>
 <bookmark href="https://www.youtube.com/watch?v=anAZ0KERxmw&amp;list=TLPQMjExMDIwMjVNbT5DqKAxqw&amp;index=2" id="821">
   <title>Learn Real Life English in Colorado 🏔️ My Rocky Mountain Weekend | Comprehensible Input - YouTube learn:en</title>
+</bookmark>
+<bookmark href="https://www.youtube.com/watch?v=hO_S1EUOmU0" id="822">
+  <title>Quên thầy Tây đi (Cách này giúp bạn tự học Nghe - Nói tiếng Anh trong vài tuần) - YouTube</title>
 </bookmark>
 </xbel>
