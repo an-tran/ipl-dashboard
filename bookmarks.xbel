@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :832: for Floccus bookmark sync browser extension -->
+<!--- highestId :833: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2489,6 +2489,9 @@
   <bookmark href="https://www.youtube.com/watch?v=heDIhSGdKgI" id="831">
     <title>Learn English Fast with fun and travel - Comprehensible Input - YouTube</title>
   </bookmark>
+</folder>
+<folder id="833">
+  <title>chungkhoan</title>
   <bookmark href="https://www.youtube.com/watch?v=nV4_T9J7n8Q" id="832">
     <title>VIỆT NAM VÀ CÁC CHỈ SỐ 24/10/2025: CHIẾN LƯỢC TRONG VÙNG DAO ĐỘNG | VTVIndex - YouTube</title>
   </bookmark>
