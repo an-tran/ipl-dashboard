@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :834: for Floccus bookmark sync browser extension -->
+<!--- highestId :836: for Floccus bookmark sync browser extension -->
 
 <bookmark href="http://thanhnien.vn/doi-song/nguoi-sai-gon-nua-dem-hao-huc-di-an-xoi-nha-xac-761690.html" id="1">
   <title>Người Sài Gòn nửa đêm háo hức đi ăn &apos;xôi nhà xác&apos; | Đời sống | Thanh Niên</title>
@@ -2491,6 +2491,12 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=k4pqCupTqLU&amp;list=TLPQMjMxMDIwMjWNhFmNLrvTvA&amp;index=5" id="834">
     <title>Taiwan VLOG: Exploring Taipei, Jiufen, Night Markets, Boba, Teahouses, &amp; bein&apos; silly - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=kaPgGH5HC0w&amp;list=TLPQMjMxMDIwMjWNhFmNLrvTvA&amp;index=3" id="835">
+    <title>a week in my life vlog - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=pA-ZcCVHUFc" id="836">
+    <title>I teach you English in Vietnam 🇻🇳 - YouTube</title>
   </bookmark>
 </folder>
 <folder id="833">
